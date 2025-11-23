@@ -1,28 +1,35 @@
-CommunityData = {
-  prayerFocus: {
-    title: "Nagaa in Families",
-    description: "This week, let us stand together praying for unity, forgiveness, and love within our homes.",
-    verse: "Colossians 3:13",
-    participants: 142
+{
+  "prayerFocus": {
+    "title": "Strength in Weariness",
+    "description": "This week, let us lift up those who feel exhausted in their spirit. We pray for God's renewing strength to wash over every tired heart.",
+    "verse": "Isaiah 40:31",
+    "participants": 1250
   },
-  discussion: {
-    question: "MAwaa one blessing you are thankful for today?",
-    context: "Gratitude turns what we have into enough."
+  "discussion": {
+    "question": "What is a recent challenge where you saw God's hand guiding you?",
+    "context": "Sometimes we only see the path clearly when we look back."
   },
-  announcements: [
+  "announcements": [
     {
-      id: '1',
-      title: "Jaar Plan Available",
-      date: "Nov 20, 2024",
-      content: "Check out the new 'Psalms in 7 Days' plan in the Plans tab!",
-      type: 'news'
+      "id": "news_01",
+      "title": "New Audio Bible Added",
+      "date": "Nov 23, 2025",
+      "content": "We have updated the Bible section to include audio features. Check it out!",
+      "type": "news"
     },
     {
-      id: '2',
-      title: "Plasting Season",
-      date: "Dec 01, 2024",
-      content: "Join the community in a 3-day prayer starting next month.",
-      type: 'event'
+      "id": "event_01",
+      "title": "Weekend Fasting",
+      "date": "Dec 01, 2025",
+      "content": "Join us for a global day of fasting and prayer this coming Sunday.",
+      "type": "event"
+    },
+    {
+      "id": "alert_01",
+      "title": "Server Maintenance",
+      "date": "Dec 05, 2025",
+      "content": "The app might be slow for 1 hour on Friday night due to upgrades.",
+      "type": "alert"
     }
   ]
-};
+}
