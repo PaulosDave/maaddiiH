@@ -1,0 +1,28 @@
+CommunityData = {
+  prayerFocus: {
+    title: "Nagaa in Families",
+    description: "This week, let us stand together praying for unity, forgiveness, and love within our homes.",
+    verse: "Colossians 3:13",
+    participants: 142
+  },
+  discussion: {
+    question: "MAwaa one blessing you are thankful for today?",
+    context: "Gratitude turns what we have into enough."
+  },
+  announcements: [
+    {
+      id: '1',
+      title: "Jaar Plan Available",
+      date: "Nov 20, 2024",
+      content: "Check out the new 'Psalms in 7 Days' plan in the Plans tab!",
+      type: 'news'
+    },
+    {
+      id: '2',
+      title: "Plasting Season",
+      date: "Dec 01, 2024",
+      content: "Join the community in a 3-day prayer starting next month.",
+      type: 'event'
+    }
+  ]
+};
