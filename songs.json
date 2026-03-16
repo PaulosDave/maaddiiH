@@ -1,0 +1,17 @@
+{ 
+    "id": "1", 
+    "title": "Waaqayyo Guddaadha", 
+    "artist": "Faarfattoota Oromoo", 
+    "category": "Galata", 
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "linkedHymn": { "id": 1, "library": "oromo" } 
+  },
+  { 
+    "id": "2", 
+    "title": "Galfata Koo", 
+    "artist": "Choir A", 
+    "category": "Abdii", 
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "linkedHymn": { "id": 2, "library": "oromo" } 
+  }
+]
