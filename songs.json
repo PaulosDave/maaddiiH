@@ -35,8 +35,7 @@
     "album": "Uumaa Uumamaa", 
     "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
     "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-    "linkedHymn": { "id": 108, "library": "oromo" } 
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
   },
     { 
     "id": "5", 
