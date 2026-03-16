@@ -1,9 +1,15 @@
 [
   {
     "id": 169,
-    "title": "Faaruu Haaraa",
-    "lyrics": "Koottaa ni faarfannaa...\n...",
-    "library": "oromo"
-  "categories": ["Inaaffaa", "Kadhannaa"]
+    "title": "New Oromo Song",
+    "lyrics": "Koottaa ni faarfannaa...",
+    "library": "oromo",
+    "categories":["Galata"]
+  },
+  {
+    "id": 201,
+    "title": "New International Song",
+    "lyrics": "Amazing Grace...",
+    "library": "international"
   }
 ]
