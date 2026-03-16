@@ -65,7 +65,8 @@
     "album": "Uumaa Uumamaa", 
     "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
     "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "linkedHymn": { "id": 169, "library": "oromo" } 
   },
     { 
     "id": "8", 
@@ -79,22 +80,22 @@
   },
     { 
     "id": "9", 
-    "title": "Uumaa Uumamaa", 
+    "title": "Namaaf", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
     "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
     "category": "Galata", 
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-    "linkedHymn": { "id": 155, "library": "oromo" } 
+    "linkedHymn": { "id": 164, "library": "oromo" } 
   },
     { 
     "id": "10", 
-    "title": "Uumaa Uumamaa", 
+    "title": "Namni", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
     "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
     "category": "Galata", 
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-    "linkedHymn": { "id": 156, "library": "oromo" } 
+    "linkedHymn": { "id": 118, "library": "oromo" } 
   }
 ]
