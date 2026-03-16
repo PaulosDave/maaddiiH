@@ -1,5 +1,4 @@
-[
-    
+[ 
   { 
     "id": "1", 
     "title": "Uumaa Uumamaa", 
@@ -98,5 +97,4 @@
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     "linkedHymn": { "id": 156, "library": "oromo" } 
   }
-
 ]
