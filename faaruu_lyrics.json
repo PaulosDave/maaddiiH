@@ -7,6 +7,13 @@
     "categories":["Galata"]
   },
   {
+    "id": 170,
+    "title": " Oromo Song",
+    "lyrics": "Koottaa ni faarfannaa...",
+    "library": "oromo",
+    "categories":["Galata"]
+  },
+  {
     "id": 201,
     "title": "New International Song",
     "lyrics": "Amazing Grace...",
