@@ -11,6 +11,7 @@
     "id": "2", 
     "title": "Galfata Koo", 
     "artist": "Choir A", 
+    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
     "category": "Abdii", 
     "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     "linkedHymn": { "id": 2, "library": "oromo" } 
