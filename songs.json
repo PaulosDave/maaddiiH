@@ -4,9 +4,9 @@
     "title": "Uumaa Uumamaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
     "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733101/1._Uumama_qr3dbl.mp3",
     "linkedHymn": { "id": 152, "library": "oromo" } 
   },
 { 
@@ -14,18 +14,18 @@
     "title": "Cidha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
-    "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "category": "Cidha", 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733105/10._Cidha_1_t3nhzu.mp3"
   },
     { 
     "id": "3", 
     "title": "Dhaddacha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
-    "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "category": "Kadhannaa", 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733111/2._Dhaddacha_td81ud.mp3",
     "linkedHymn": { "id": 141, "library": "oromo" } 
   },
     { 
@@ -33,28 +33,27 @@
     "title": "Ga'een koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
     "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/3._Ga_een_koo_afdkxo.mp3",
+    "linkedHymn": { "id": 108, "library": "oromo" } 
   },
     { 
     "id": "5", 
     "title": "Uumaa koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
-    "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-    "linkedHymn": { "id": 106, "library": "oromo" } 
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3",
   },
     { 
     "id": "6", 
     "title": "Mee kottaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
-    "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "category": ["Inaaffaa", "Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733108/6._Mee_kottaa_wwd6co.mp3",
     "linkedHymn": { "id": 90, "library": "oromo" } 
   },
     { 
@@ -62,9 +61,9 @@
     "title": "Lubaaf raajii", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
-    "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "category": "Inaaffaa", 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/7._Lubaaf_Raajii_qfxth0.mp3",
     "linkedHymn": { "id": 169, "library": "oromo" } 
   },
     { 
@@ -72,9 +71,9 @@
     "title": "Yeroo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
-    "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "category": "Abdii", 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/8._Yeroo_xjvqls.mp3",
     "linkedHymn": { "id": 69, "library": "oromo" } 
   },
     { 
@@ -82,9 +81,9 @@
     "title": "Namaaf", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
     "category": "Galata", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773696512/girmaye._anaaf_isa_duwwaa_vfdiaq.mp3",
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/9._Namaaf_bncyez.mp3",
     "linkedHymn": { "id": 164, "library": "oromo" } 
   },
     { 
@@ -92,9 +91,9 @@
     "title": "Namni", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Uumaa Uumamaa", 
-    "coverArt": "https://i.ibb.co/RTBqQqWT/IMG-20260315-175042-767.jpg", 
-    "category": "Galata", 
-    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "category": ["Galata", "Amantii"], 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/4._Namni_r8ofbd.mp3",
     "linkedHymn": { "id": 118, "library": "oromo" } 
   }
 ]
