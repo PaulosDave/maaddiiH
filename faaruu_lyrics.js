@@ -39,7 +39,7 @@ Ofiinii fi Finihaas kunoo, safuu fi seerakee cabsanii, qalma iddoo aarsaarraa ha
 Utuu murtiinkee saffisee, natti tola nan gammaddaa
 Garuu ilaalchakoo kanaan , cubbamoota baayyee badaa
 Hamootaaf jiruun qajeeluun, abdii keessa namaa gogsaa
-Uumamni Uumaa Isaatti hin falmu, guyyaamakee ilaaleen obsaa`
+Uumamni Uumaa Isaatti hin falmu, guyyaamakee ilaaleen obsaa`,
     "library": "oromo",
     "categories":["Inaafaa"]
   }
