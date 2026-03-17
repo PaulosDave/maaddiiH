@@ -96,5 +96,16 @@
     "category": ["Galata", "Amantii"], 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/4._Namni_r8ofbd.mp3",
     "linkedHymn": { "id": 118, "library": "oromo" } 
+  },
+  
+    { 
+    "id": "11", 
+    "title": "Aduu Lixuuf", 
+    "artist": "Habtaamuu Naggasee", 
+    "album": "Aduu Lixuuf", 
+    "artistImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJmFK5MjCobRx47htLb7OQceK-6dUCZFQ9g&s",
+    "category": ["Galata", "Amantii"], 
+    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/4._Namni_r8ofbd.mp3",
+    "linkedHymn": { "id": 118, "library": "oromo" } 
   }
 ]
