@@ -1,13 +1,13 @@
 [
   {
-    "id": "lal",
+    "id": "lala",
     "title": "Lallaba Gaara Eebbaa Irraa",
     "coverUrl": "https://i.ibb.co/YOUR_LAL_IMAGE.jpg",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/lal_data.json",
     "templateType": "nested" 
   },
   {
-    "id": "waadaa",
+    "id": "waadaaa",
     "title": "Waaqayyo Waadaa Seeneera",
     "coverUrl": "https://i.ibb.co/YOUR_WAADAA_IMAGE.jpg",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/waadaa_data.json",
