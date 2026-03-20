@@ -2,14 +2,14 @@
   {
     "id": "lala",
     "title": "Lallaba Gaara Eebbaa Irraa",
-    "coverUrl": "https://i.ibb.co/YOUR_LAL_IMAGE.jpg",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgdmMYHTPb5KfRx7vifmd373QuPf7CqJWTg&s",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/lal_data.json",
     "templateType": "nested" 
   },
   {
     "id": "waadaaa",
     "title": "Waaqayyo Waadaa Seeneera",
-    "coverUrl": "https://i.ibb.co/YOUR_WAADAA_IMAGE.jpg",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgdmMYHTPb5KfRx7vifmd373QuPf7CqJWTg&s",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/waadaa_data.json",
     "templateType": "quotes" 
   },
@@ -17,7 +17,7 @@
   {
     "id": "waadaaua",
     "title": "Waaqayyo Waadaa Seeneerrra",
-    "coverUrl": "https://i.ibb.co/YOUR_WAADAA_IMAGE.jpg",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgdmMYHTPb5KfRx7vifmd373QuPf7CqJWTg&s",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/waadaa_data.json",
     "templateType": "quotes" 
   }
