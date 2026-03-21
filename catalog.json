@@ -5,6 +5,7 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgdmMYHTPb5KfRx7vifmd373QuPf7CqJWTg&s",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/lal_data.json",
     "templateType": "nested",
+    "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
     "version": 1,
     "whatsNew": "Initial release",
   },
@@ -14,6 +15,7 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgdmMYHTPb5KfRx7vifmd373QuPf7CqJWTg&s",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/waadaa_data.json",
     "templateType": "quotes",
+    "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
     "version": 1,
     "whatsNew": "Initial release",
   },
@@ -24,7 +26,8 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgdmMYHTPb5KfRx7vifmd373QuPf7CqJWTg&s",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/waadaauu_data.json",
     "templateType": "quotes",
-    "version": 1,
-    "whatsNew": "Initial release",
+    "version": 2,
+    "whatsNew": "Boqqonnaawwan kana dura keessaa afan 4 itti dabalameera",
+    "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
   }
 ]
