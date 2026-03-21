@@ -7,7 +7,7 @@
     "templateType": "nested",
     "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
     "version": 1,
-    "whatsNew": "Initial release",
+    "whatsNew": "Initial release"
   },
   {
     "id": "waadaa",
@@ -17,7 +17,7 @@
     "templateType": "quotes",
     "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
     "version": 1,
-    "whatsNew": "Initial release",
+    "whatsNew": "Initial release"
   },
   
   {
@@ -28,6 +28,6 @@
     "templateType": "quotes",
     "version": 2,
     "whatsNew": "Boqqonnaawwan kana dura keessaa afan 4 itti dabalameera",
-    "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
+    "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf."
   }
 ]
