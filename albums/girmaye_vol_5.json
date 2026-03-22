@@ -1,10 +1,10 @@
 [ 
   { 
     "id": "1", 
-    "title": "Uumaa Uumamaa", 
+    "title": "2Uumaa Uumamaa", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa", 
-    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
+    "album": "Dhugaan gatii nama baasisa", 
+    "coverArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC97og9drzOrJ90NaAs8UtWriwsyL7SqEaAg&s", 
     "category": "Galata",
     "artistImage": "https://yt3.googleusercontent.com/kCRPAG3kMX0pjzUk3htItPJu02E7l18Y7g_5ptBNTU0bAYNHa_egDj3gWAfBaPpFsmMWV5xhAw=s900-c-k-c0x00ffffff-no-rj",
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733101/1._Uumama_qr3dbl.mp3",
@@ -12,18 +12,18 @@
   },
 { 
     "id": "2", 
-    "title": "Cidha", 
+    "title": "2Cidha", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     
     "category": "Cidha", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733105/10._Cidha_1_t3nhzu.mp3"
   },
   { 
     "id": "3", 
-    "title": "Dhaddacha", 
+    "title": "2Dhaddacha", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     
     "category": "Kadhannaa", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733111/2._Dhaddacha_td81ud.mp3",
@@ -31,9 +31,9 @@
   },
     { 
     "id": "4", 
-    "title": "Ga'een koo", 
+    "title": "2Ga'een koo", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     
     "category": "Galata", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/3._Ga_een_koo_afdkxo.mp3",
@@ -41,17 +41,17 @@
   },
     { 
     "id": "5", 
-    "title": "Uumaa koo", 
+    "title": "2Uumaa koo", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3"
   },
     { 
     "id": "6", 
-    "title": "Mee kottaa", 
+    "title": "2Mee kottaa", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     
     "category": ["Inaaffaa", "Akeekkachiisa", "Waamicha"], 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733108/6._Mee_kottaa_wwd6co.mp3",
@@ -59,9 +59,9 @@
   },
     { 
     "id": "7", 
-    "title": "Lubaaf raajii", 
+    "title": "2Lubaaf raajii", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     
     "category": "Inaaffaa", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/7._Lubaaf_Raajii_qfxth0.mp3",
@@ -69,9 +69,9 @@
   },
     { 
     "id": "8", 
-    "title": "Yeroo", 
+    "title": "2Yeroo", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     
     "category": "Abdii", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/8._Yeroo_xjvqls.mp3",
@@ -79,18 +79,18 @@
   },
     { 
     "id": "9", 
-    "title": "Namaaf", 
+    "title": "2Namaaf", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     "category": "Galata", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/9._Namaaf_bncyez.mp3",
     "linkedHymn": { "id": 164, "library": "oromo" } 
   },
     { 
     "id": "10", 
-    "title": "Namni", 
+    "title": "2Namni", 
     "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "album": "Dhugaan gatii nama baasisa",
     "category": ["Galata", "Amantii"], 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/4._Namni_r8ofbd.mp3",
     "linkedHymn": { "id": 118, "library": "oromo" } 
