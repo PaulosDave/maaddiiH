@@ -1,6 +1,6 @@
 [ 
   { 
-    "id": "1", 
+    "id": "girmaye51", 
     "title": "2Uumaa Uumamaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa", 
@@ -11,7 +11,7 @@
     "linkedHymn": { "id": 152, "library": "oromo" } 
   },
 { 
-    "id": "2", 
+    "id": "girmaye52", 
     "title": "2Cidha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -20,7 +20,7 @@
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733105/10._Cidha_1_t3nhzu.mp3"
   },
   { 
-    "id": "3", 
+    "id": "girmaye53", 
     "title": "2Dhaddacha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -30,7 +30,7 @@
     "linkedHymn": { "id": 141, "library": "oromo" } 
   },
     { 
-    "id": "4", 
+    "id": "girmaye54", 
     "title": "2Ga'een koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -40,7 +40,7 @@
     "linkedHymn": { "id": 108, "library": "oromo" } 
   },
     { 
-    "id": "5", 
+    "id": "girmaye55", 
     "title": "2Uumaa koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -48,7 +48,7 @@
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3"
   },
     { 
-    "id": "6", 
+    "id": "girmaye56", 
     "title": "2Mee kottaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -58,7 +58,7 @@
     "linkedHymn": { "id": 90, "library": "oromo" } 
   },
     { 
-    "id": "7", 
+    "id": "girmaye57", 
     "title": "2Lubaaf raajii", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -68,7 +68,7 @@
     "linkedHymn": { "id": 87, "library": "oromo" } 
   },
     { 
-    "id": "8", 
+    "id": "girmaye58", 
     "title": "2Yeroo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -78,7 +78,7 @@
     "linkedHymn": { "id": 69, "library": "oromo" } 
   },
     { 
-    "id": "9", 
+    "id": "girmaye59", 
     "title": "2Namaaf", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
@@ -87,7 +87,7 @@
     "linkedHymn": { "id": 164, "library": "oromo" } 
   },
     { 
-    "id": "10", 
+    "id": "girmaye510", 
     "title": "2Namni", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
