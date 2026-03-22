@@ -4,7 +4,6 @@
     "title": "Lallaba Gaara Eebbaa Irraa",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/books/lal_data.json",
     "templateType": "nested",
-    "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
     "version": 1,
     "whatsNew": "Initial release"
   },
@@ -13,7 +12,6 @@
     "title": "Waaqayyo Waadaa Seeneera",
     "dataUrl": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/books/waadaa_data.json",
     "templateType": "quotes",
-    "description": "Qajeelfama fi gorsa hafuuraa jireenya guyyaa guyyaaf.",
     "version": 1,
     "whatsNew": "Initial yaalii fii faaava aeea release"
   },
