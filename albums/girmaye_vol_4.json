@@ -15,7 +15,6 @@
     "title": "Cidha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
-    
     "category": "Cidha", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733105/10._Cidha_1_t3nhzu.mp3"
   },
@@ -24,7 +23,6 @@
     "title": "Dhaddacha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
-    
     "category": "Kadhannaa", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733111/2._Dhaddacha_td81ud.mp3",
     "linkedHymn": { "id": 141, "library": "oromo" } 
@@ -34,7 +32,6 @@
     "title": "Ga'een koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
-    
     "category": "Galata", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/3._Ga_een_koo_afdkxo.mp3",
     "linkedHymn": { "id": 108, "library": "oromo" } 
@@ -44,7 +41,6 @@
     "title": "Uumaa koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
-    
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3"
   },
     { 
@@ -52,7 +48,6 @@
     "title": "Mee kottaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
-    
     "category": ["Inaaffaa", "Akeekkachiisa", "Waamicha"], 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733108/6._Mee_kottaa_wwd6co.mp3",
     "linkedHymn": { "id": 90, "library": "oromo" } 
@@ -62,7 +57,6 @@
     "title": "Lubaaf raajii", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
-    
     "category": "Inaaffaa", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/7._Lubaaf_Raajii_qfxth0.mp3",
     "linkedHymn": { "id": 87, "library": "oromo" } 
@@ -72,7 +66,6 @@
     "title": "Yeroo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
-    
     "category": "Abdii", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/8._Yeroo_xjvqls.mp3",
     "linkedHymn": { "id": 69, "library": "oromo" } 
