@@ -1,17 +1,7 @@
 [
   {
-    "albumId": "girmaye_vol_5",
-    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/girmaye_vol_5.json",
-    "version": 2
-  },
-  {
     "albumId": "girmaye_vol_4",
     "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/girmaye_vol_4.json",
-    "version": 1
-  },
-  {
-    "albumId": "singles_collection",
-    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/singles_collection.json",
     "version": 1
   }
 ]
