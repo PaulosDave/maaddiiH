@@ -24,6 +24,7 @@
     "title": "Ba’aa koo hundumaa fudhadhee", 
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "linkedHymn": { "id": 169, "library": "oromo" },
     "category": "Kadhannaa", 
     "audioUrl": "https://archive.org/download/Ayyaantuu2/03%20Track%203.mp3" 
   },
