@@ -16,6 +16,7 @@
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
     "category": "Abdii", 
+    "linkedHymn": { "id": 170, "library": "oromo" },
     "audioUrl": "https://archive.org/download/Ayyaantuu2/02%20Track%202.mp3"
   },
   { 
