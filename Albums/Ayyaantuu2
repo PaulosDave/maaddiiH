@@ -1,0 +1,85 @@
+[ 
+  { 
+    "id": "Ayyaantuu1", 
+    "title": "Sababii biraan hin jiru", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774533864/1000014605_vatvmq.jpg", 
+    "category": "Galata",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774534521/Picsart_26-03-26_18-14-49-471_flwwme.jpg",
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/01%20Track%201.mp3",
+    "linkedHymn": { "id": 18, "library": "oromo" } 
+  },
+{ 
+    "id": "Ayyaantuu2", 
+    "title": "Duumessoota waaqaan marfamee", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/02%20Track%202.mp3"
+  },
+  { 
+    "id": "Ayyaantuu3", 
+    "title": "Ba’aa koo hundumaa fudhadhee", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/03%20Track%203.mp3" 
+  },
+    { 
+    "id": "Ayyaantuu4", 
+    "title": "Bakka bashannanaa miti phaaximoonii", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": ["Abdii", “Amantii”],
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/04%20Track%204.mp3" 
+  },
+    { 
+    "id": "Ayyaantuu5", 
+    "title": "Dhaloota hedduu harcaafne", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": ["Inaaffaa", "Kadhannaa"],
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/05%20Track%205.mp3"
+  },
+    { 
+    "id": "Ayyaantuu6", 
+    "title": "Bishaan isa iddoo aarsaa keetii", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/06%20Track%206.mp3"
+    },
+    { 
+    "id": "Ayyaantuu7", 
+    "title": "Sababii cubbuuf jennee", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": ["Inaaffaa", "Kadhannaa"],  
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/07%20Track%207.mp3"
+  },
+    { 
+    "id": "Ayyaantuu8", 
+    "title": "Ergamoonni 3n ba’anii", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": ["Akeekkachiisa", “Waamicha”], 
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/08%20Track%208.mp3" 
+  },
+    { 
+    "id": "Ayyaantuu9", 
+    "title": "Anis miidhama koon beeka", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": ["Kadhannaa",“Inaaffaa”],
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/09%20Track%209.mp3" 
+  },
+    { 
+    "id": "Ayyaantuu10", 
+    "title": "Hibboon hunduu sirkatti hiikama", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "category": ["Galata", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Ayyaantuu2/10%20Track%2010.mp3"
+  }
+]
