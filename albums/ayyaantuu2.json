@@ -33,6 +33,7 @@
     "title": "Bakka bashannanaa miti phaaximoonii", 
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "linkedHymn": { "id": 172, "library": "oromo" },
     "category": ["Abdii", "Amantii"],
     "audioUrl": "https://archive.org/download/Ayyaantuu2/04%20Track%204.mp3" 
   },
@@ -41,6 +42,7 @@
     "title": "Dhaloota hedduu harcaafne", 
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "linkedHymn": { "id": 171, "library": "oromo" },
     "category": ["Inaaffaa", "Kadhannaa"],
     "audioUrl": "https://archive.org/download/Ayyaantuu2/05%20Track%205.mp3"
   },
@@ -49,6 +51,7 @@
     "title": "Bishaan isa iddoo aarsaa keetii", 
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
+    "linkedHymn": { "id": 173, "library": "oromo" },
     "category": ["Inaaffaa", "Kadhannaa"], 
     "audioUrl": "https://archive.org/download/Ayyaantuu2/06%20Track%206.mp3"
     },
@@ -58,6 +61,7 @@
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
     "category": ["Inaaffaa", "Kadhannaa"],  
+    "linkedHymn": { "id": 174, "library": "oromo" },
     "audioUrl": "https://archive.org/download/Ayyaantuu2/07%20Track%207.mp3"
   },
     { 
@@ -66,6 +70,7 @@
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
     "category": ["Akeekkachiisa", "Waamicha"], 
+    "linkedHymn": { "id": 175, "library": "oromo" },
     "audioUrl": "https://archive.org/download/Ayyaantuu2/08%20Track%208.mp3" 
   },
     { 
@@ -74,6 +79,7 @@
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
     "category": ["Kadhannaa","Inaaffaa"],
+    "linkedHymn": { "id": 176, "library": "oromo" },
     "audioUrl": "https://archive.org/download/Ayyaantuu2/09%20Track%209.mp3" 
   },
     { 
@@ -82,6 +88,7 @@
     "artist": "Ayyaantuu Ejjetaa", 
     "album": "Sababii biraan hin jiru fayyuu namaafi",
     "category": ["Galata", "Amantii"], 
+    "linkedHymn": { "id": 177, "library": "oromo" },
     "audioUrl": "https://archive.org/download/Ayyaantuu2/10%20Track%2010.mp3"
   }
 ]
