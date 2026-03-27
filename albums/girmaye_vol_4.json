@@ -41,6 +41,7 @@
     "title": "Uumaa koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Qabee #4: Uumaa Uumamaa",
+    "linkedHymn": { "id": 178, "library": "oromo" },
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3"
   },
     { 
