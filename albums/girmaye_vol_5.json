@@ -4,7 +4,7 @@
     "title": "2Uumaa Uumamaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa", 
-    "coverArt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC97og9drzOrJ90NaAs8UtWriwsyL7SqEaAg&s", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774644757/Picsart_26-03-28_00-48-43-038_lpb5tt.jpg", 
     "category": "Galata",
     "artistImage": "https://yt3.googleusercontent.com/kCRPAG3kMX0pjzUk3htItPJu02E7l18Y7g_5ptBNTU0bAYNHa_egDj3gWAfBaPpFsmMWV5xhAw=s900-c-k-c0x00ffffff-no-rj",
     "audioUrl": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample.mp3",
@@ -15,7 +15,6 @@
     "title": "2Cidha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    
     "category": "Cidha", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733105/10._Cidha_1_t3nhzu.mp3"
   },
@@ -24,7 +23,6 @@
     "title": "2Dhaddacha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    
     "category": "Kadhannaa", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733111/2._Dhaddacha_td81ud.mp3",
     "linkedHymn": { "id": 141, "library": "oromo" } 
@@ -34,7 +32,6 @@
     "title": "2Ga'een koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    
     "category": "Galata", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/3._Ga_een_koo_afdkxo.mp3",
     "linkedHymn": { "id": 108, "library": "oromo" } 
@@ -44,7 +41,6 @@
     "title": "2Uumaa koo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3"
   },
     { 
@@ -52,7 +48,6 @@
     "title": "2Mee kottaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    
     "category": ["Inaaffaa", "Akeekkachiisa", "Waamicha"], 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733108/6._Mee_kottaa_wwd6co.mp3",
     "linkedHymn": { "id": 90, "library": "oromo" } 
@@ -62,7 +57,6 @@
     "title": "2Lubaaf raajii", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    
     "category": "Inaaffaa", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/7._Lubaaf_Raajii_qfxth0.mp3",
     "linkedHymn": { "id": 87, "library": "oromo" } 
@@ -72,7 +66,6 @@
     "title": "2Yeroo", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    
     "category": "Abdii", 
     "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/8._Yeroo_xjvqls.mp3",
     "linkedHymn": { "id": 69, "library": "oromo" } 
