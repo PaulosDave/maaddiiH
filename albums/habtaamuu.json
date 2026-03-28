@@ -1,0 +1,93 @@
+[ 
+  { 
+    "id": "habtamu1", 
+    "title": "Aduu lixuuf calalaqxu", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774726347/Picsart_26-03-28_23-04-15-450_kb1atn.jpg", 
+    "category": ["Kadhannaa", "Akeekkachiisa"],
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774723572/Picsart_26-03-28_22-17-21-467_ngrsyd.jpg",
+    "audioUrl": "https://archive.org/download/Habtaamuu/Aduun%20ba%27aa%20jirtu%20-%20Habtaamuu%20Laggasee.MP3"
+  },
+{ 
+    "id": "habtamu2", 
+    "title": "Amma haa murteeffannu", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Amma%20haa%20murteeffannu%20-%20%20Habtaamuu%20Laggasee.MP3"
+  },
+  { 
+    "id": "habtamu3", 
+    "title": "Labsiin samaayirraa", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": "Waamicha", 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Labsiin%20samaayii%20irraa%20-%20Habtaamuu%20Laggasee.MP3",
+    "linkedHymn": { "id": 140, "library": "oromo" } 
+  },
+    { 
+    "id": "habtamu4", 
+    "title": "Biyya lafaa keessaa", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Biyya%20lafaa%20keessa%20-%20Habtaamuu%20Laggasee.MP3"
+  },
+    { 
+    "id": "habtamu5", 
+    "title": "Bu’aa’ota waaqefattoota afaanii", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": ["Waamicha", "Akeekkachiisa"],
+    "audioUrl": "https://archive.org/download/Habtaamuu/Bu%27aa%27ota-%20Habtaamuu%20Laggasee.MP3"
+  },
+    { 
+    "id": "habtamu6", 
+    "title": "Eenyu nu keessaa", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": ["Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Eenyu%20nu%20keessaa%20-%20Habtaamuu%20Laggasee.MP3" 
+  },
+    { 
+    "id": "habtamu7", 
+    "title": "Fakkaattif ooleera", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Fakkaattiif%20ooleera%20-%20Habtaamuu%20Laggasee.MP3"
+  },
+    { 
+    "id": "habtamu8", 
+    "title": "Kan akka kee", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Kan%20akka%20kee%20-%20Habtaamuu%20Laggasee.MP3"
+  },
+    { 
+    "id": "habtamu9", 
+    "title": "Maal jettu", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": ["Amantii", "Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Maal%20jettu%20-%20Habtaamuu%20Laggasee.MP3"
+  },
+    { 
+    "id": "habtamu10", 
+    "title": "Olmaa hin herreegamnee", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Oolmaa%20hin%20herregamne-%20Habtaamuu%20Laggasee%20%281%29.MP3"
+  }, 
+{ 
+    "id": "habtamu11", 
+    "title": "Xinnaaf guddaa jettee", 
+    "artist": "Habtaamuu Laggasee", 
+    "album": "Aduu lixuuf calalaqxu ",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Habtaamuu/Xinnaaf%20guddaa%20jettee%20-%20Habtaamuu%20Laggasee.MP3"
+  }
+]
