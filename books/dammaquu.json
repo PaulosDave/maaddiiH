@@ -51,7 +51,21 @@
         "body": [
           "This text belongs to Chapter 1, Section 2."
         ]
-      }
+      }, 
+      {
+        "subChapter": "3",
+        "title": "The First Sub-Chapter",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "The Second Sub-Chapter",
+        "body": [
+          "This text belongs to Chapter 1, Section 2."
+        ]
+      } 
     ]
   }, 
   {
