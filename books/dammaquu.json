@@ -51,8 +51,10 @@
         "body": [
           "This text belongs to Chapter 1, Section 2."
         ]
-      }, 
-      {
+      }
+    ] 
+  }, 
+ {
     "chapter": "2",
     "title": "The second Main Chapter",
     "subChapters":[
@@ -71,3 +73,5 @@
         ]
       }
     ]
+  } 
+] 
