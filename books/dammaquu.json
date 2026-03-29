@@ -52,26 +52,6 @@
           "This text belongs to Chapter 1, Section 2."
         ]
       }
-    ] 
-  }, 
- {
-    "chapter": "2",
-    "title": "The second Main Chapter",
-    "subChapters":[
-      {
-        "subChapter": "1",
-        "title": "The Sub-Chapter",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "2",
-        "title": "The Second Sub-Chapter",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
-        ]
-      }
     ]
-  } 
+  }
 ] 
