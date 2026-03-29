@@ -1,0 +1,30 @@
+[
+  {
+    "chapter": "Dursituu",
+    "title": "Introduction",
+    "type": "non-chapter",
+    "body": [
+      "Welcome to this book."
+    ]
+  },
+  {
+    "chapter": "1",
+    "title": "The First Main Chapter",
+    "subChapters":[
+      {
+        "subChapter": "1",
+        "title": "The First Sub-Chapter",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "2",
+        "title": "The Second Sub-Chapter",
+        "body": [
+          "This text belongs to Chapter 1, Section 2."
+        ]
+      }
+    ]
+  }
+] 
