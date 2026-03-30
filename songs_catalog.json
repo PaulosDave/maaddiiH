@@ -1,8 +1,23 @@
 [
   {
-    "albumId": "sambatooo2",
-    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/sambatoo2.json",
-    "version": 2
+    "albumId": "ayyaantuu2",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/ayyaantuu2.json",
+    "version": 1
+  },
+  {
+    "albumId": "badhaasaa",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/badhaasaa.json",
+    "version": 1
+  }, 
+  {
+    "albumId": "girmaye_vol_4",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/girmaye_vol_4.json",
+    "version": 1
+  }, 
+  {
+    "albumId": "habtaamuu",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/habtaamuu.json",
+    "version": 1
   },
   {
     "albumId": "lalisee",
@@ -10,23 +25,8 @@
     "version": 2
   },
   {
-    "albumId": "badhaasaa",
-    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/badhaasaa.json",
-    "version": 1
+    "albumId": "sambatooo2",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/sambatoo2.json",
+    "version": 2
   },
-  {
-    "albumId": "habtaamuu",
-    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/habtaamuu.json",
-    "version": 1
-  },
-  {
-    "albumId": "ayyaantuu2",
-    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/ayyaantuu2.json",
-    "version": 1
-  },
-  {
-    "albumId": "girmaye_vol_4",
-    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/girmaye_vol_4.json",
-    "version": 1
-  }
 ]
