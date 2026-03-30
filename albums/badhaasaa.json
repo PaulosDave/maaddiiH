@@ -1,0 +1,85 @@
+[ 
+  { 
+    "id": "badhaasaa1", 
+    "title": "Guumgummii garaa koo", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774881480/Picsart_26-03-30_18-36-04-573_majhqc.png", 
+    "category": "Galata",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774881477/Picsart_26-03-30_18-36-52-528_xb1kjq.jpg",
+    "audioUrl": "https://archive.org/download/Badasa/GUMGUMI%20-%20CDD.mp3" 
+  },
+{ 
+    "id": "badhaasaa2", 
+    "title": "Bittaan garbummaa", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": ["Kadhannaa", "Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/Badasa/BIA%20%20GABRUMAA%20CORR%20-%20BIA%20%20GABRUMAA%20CORR.mp3"
+  },
+  { 
+    "id": "badhaasaa3", 
+    "title": "Diraamaan inni hamaaf gaarii", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Badasa/DIRRAMAA%20-%20CDD.mp3" 
+  },
+    { 
+    "id": "badhaasaa4", 
+    "title": "Ergaa bara saanii", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Badasa/ERGA%20BARA%20SANII%20-%20ERGA%20BARA%20SANII.mp3"
+   },
+    { 
+    "id": "badhaasaa5", 
+    "title": "Hin gowwoominaa", 
+    "category": "Akeekkachiisa",
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "audioUrl": "https://archive.org/download/Badasa/HINGOWOMINAA%20-%20cdd.mp3"
+  },
+    { 
+    "id": "badhaasaa6", 
+    "title": "Nutti araarami", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Badasa/NUTI%20ARARAMII%20CDD%20-%20NUTI%20ARARAMII%20CDD.mp3" 
+  },
+    { 
+    "id": "badhaasaa7", 
+    "title": "Onnee abboommii kurnaniiti", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": "Sanbata", 
+    "audioUrl": "https://archive.org/download/Badasa/ONE%20%20ABOMI%20COREC%20-%20ONE%20%20ABOMI%20COREC.mp3"
+  },
+    { 
+    "id": "badhaasaa8", 
+    "title": "Samiidhaa kenname gaa’elli", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": "Gaa’ela", 
+    "audioUrl": "https://archive.org/download/Badasa/SAMIDHA%20KENAME%20%20GAHILA%20cdd%20-%20SAMIDHA%20KENAME%20%20GAHILA%20cdd.mp3" 
+  },
+    { 
+    "id": "badhaasaa9", 
+    "title": "Simboof ulfinaan", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Badasa/SIMBOF%20ULFINA%20cdd%20-%202.mp3"
+  },
+    { 
+    "id": "badhaasaa10", 
+    "title": "Yeroo malee", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Guumgummii garaa koo dhageessee",
+    "category": ["Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://archive.org/download/Badasa/YEROMALEE%20-%20CORREC.mp3",
+    "linkedHymn": { "id": 116, "library": "oromo" } 
+  }
+]
