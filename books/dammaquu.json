@@ -110,132 +110,9 @@
         "body": [
           "This text belongs to Chapter 1, Section 1."
         ]
-      },
-      {
-        "subChapter": "5",
-        "title": "Qabxiilee Dadhabbina Keenyaa fi Fala Isaanii Macaafa Qulqulluu Irraa",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "6",
-        "title": "Balaalefachuu mannaa, Irra Deddeebi’anii Gaafachuu Wayya",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "7",
-        "title": "Gorsa Xiyyeeffannaan Laatamuufii Qabu",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
-        ]
-      }, 
-      {
-        "subChapter": "8",
-        "title": "Qajeelfamni Keenya macaafa Qulqulluu Qofa ta’uu Qaba",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
-        ]
-      }, 
-      {
-        "subChapter": "9",
-        "title": "Macaafni Qulqulluun Nuuf Muka J ireenyaati (Dha)",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
-        ]
-      }
+      } 
     ]
   }, 
-  {
-    "chapter": "3",
-    "title": "HAAROMSA KADHANNAA, WALGAHII KADHANNAA FI SOOMAA",
-    "subChapters":[
-      {
-        "subChapter": "1",
-        "title": "Kadhannaa Jechuun Maal dha?",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "2",
-        "title": "Kadhatni Isa Dhugaa Yeroo, Iddoo fi Haalaan Hin Daangeffamu",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
-        ]
-      }, 
-      {
-        "subChapter": "1",
-        "title": "Kadhannaa Jechuun Maal dha?",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "1",
-        "title": "Kadhannaa Jechuun Maal dha?",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "1",
-        "title": "Kadhannaa Jechuun Maal dha?",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-    ]
-  }, 
-  {
-    "chapter": "4",
-    "title": "HAAROMSA WAAQEEFFANNAA",
-    "subChapters":[
-      {
-        "subChapter": "1",
-        "title": "The First Sub-Chapter",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "2",
-        "title": "The Second Sub-Chapter",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
-        ]
-      }
-    ]
-  }, 
-  {
-    "chapter": "5",
-    "title": "THAAROMSA FAYYAA",
-    "subChapters":[
-      {
-        "subChapter": "1",
-        "title": "The First Sub-Chapter",
-        "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "2",
-        "title": "The Second Sub-Chapter",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
-        ]
-      }
-    ]
-  }, 
-  {
-    "chapter": "6",
-    "title": "HAAROMSA UFFATAA",
-    "subChapters":[
-      {
-        "subChapter": "1",
-[
   {
     "chapter": "3",
     "title": "HAAROMSA KADHANNAA, WALGAHII KADHANNAA FI SOOMAA",
@@ -729,4 +606,4 @@
       }
     ]
   }
-        ]
+ ]
