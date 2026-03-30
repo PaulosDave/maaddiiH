@@ -1,6 +1,17 @@
 [
   {
     "chapter": "",
+    "title": "Waa'ee",
+    "type": "non-chapter",
+    "body": [
+  "Kan Maxxansiise: Garee Teelee Koonfiransii Afaan Oromoo Waldaa Adv. Guyyaa Torbaffaa Ameerikaa Kaabaati", 
+  "Waldaa Adv. Guyyaa Torbaffaa Oromoo Poortilaand Oriigan Amajjii,2016", 
+  "Teessoon: Portland Oromo SDA Church 11111 NE Knott St. Portland Oregon, 97220 U.S.A", 
+  "Kan Hiike: Badhaanee Bantuluu"
+]
+  },
+  {
+    "chapter": "",
     "title": "Galata",
     "type": "non-chapter",
     "body": [
@@ -36,32 +47,32 @@
   }, 
   {
     "chapter": "1",
-    "title": "The First Main Chapter",
+    "title": "DAMMAQUU FI HAAROMUU",
     "subChapters":[
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+        "title": "Dhugaa Xiyyeeffannaa Keenya Barbaadu",
         "body": [
           "This text belongs to Chapter 1, Section 1."
         ]
       },
       {
         "subChapter": "2",
-        "title": "The Second Sub-Chapter",
+        "title": "Hiikkaa Jechoota (Dammaquu fi Haaromuu/ Revival And Reformation) Isa Dhugaa",
         "body": [
           "This text belongs to Chapter 1, Section 2."
         ]
       }, 
       {
         "subChapter": "3",
-        "title": "The First Sub-Chapter",
+        "title": "Dammqauun Maal Dha?",
         "body": [
           "This text belongs to Chapter 1, Section 1."
         ]
       },
       {
         "subChapter": "4",
-        "title": "The Second Sub-Chapter",
+        "title": "Haaromuu",
         "body": [
           "This text belongs to Chapter 1, Section 2."
         ]
@@ -70,18 +81,67 @@
   }, 
   {
     "chapter": "2",
-    "title": "The First Main Chapter",
+    "title": "ERGOOTA ARIIFACHIISAA MANA SAGADA KEENYAA FI AKKAMITTI AKKA DHIYAATU QABU",
     "subChapters":[
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+        "title": "Ergoota Ergamoota Sadanii",
         "body": [
           "This text belongs to Chapter 1, Section 1."
         ]
       },
       {
         "subChapter": "2",
-        "title": "The Second Sub-Chapter",
+        "title": "Ergaa Mana Qulqullummaa",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Ergaa Qajeelluma Amantii",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "Ergaa bara 1888 fi Ergaa Ergamicha Isa Sadaffaa",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "5",
+        "title": "Qabxiilee Dadhabbina Keenyaa fi Fala Isaanii Macaafa Qulqulluu Irraa",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "6",
+        "title": "Balaalefachuu mannaa, Irra Deddeebi’anii Gaafachuu Wayya",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "7",
+        "title": "Gorsa Xiyyeeffannaan Laatamuufii Qabu",
+        "body": [
+          "This text belongs to Chapter 1, Section 2."
+        ]
+      }, 
+      {
+        "subChapter": "8",
+        "title": "Qajeelfamni Keenya macaafa Qulqulluu Qofa ta’uu Qaba",
+        "body": [
+          "This text belongs to Chapter 1, Section 2."
+        ]
+      }, 
+      {
+        "subChapter": "9",
+        "title": "Macaafni Qulqulluun Nuuf Muka J ireenyaati (Dha)",
         "body": [
           "This text belongs to Chapter 1, Section 2."
         ]
@@ -90,27 +150,48 @@
   }, 
   {
     "chapter": "3",
-    "title": "The First Main Chapter",
+    "title": "HAAROMSA KADHANNAA, WALGAHII KADHANNAA FI SOOMAA",
     "subChapters":[
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+        "title": "Kadhannaa Jechuun Maal dha?",
         "body": [
           "This text belongs to Chapter 1, Section 1."
         ]
       },
       {
         "subChapter": "2",
-        "title": "The Second Sub-Chapter",
+        "title": "Kadhatni Isa Dhugaa Yeroo, Iddoo fi Haalaan Hin Daangeffamu",
         "body": [
           "This text belongs to Chapter 1, Section 2."
         ]
-      }
+      }, 
+      {
+        "subChapter": "1",
+        "title": "Kadhannaa Jechuun Maal dha?",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "1",
+        "title": "Kadhannaa Jechuun Maal dha?",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
+      {
+        "subChapter": "1",
+        "title": "Kadhannaa Jechuun Maal dha?",
+        "body": [
+          "This text belongs to Chapter 1, Section 1."
+        ]
+      },
     ]
   }, 
   {
     "chapter": "4",
-    "title": "The First Main Chapter",
+    "title": "HAAROMSA WAAQEEFFANNAA",
     "subChapters":[
       {
         "subChapter": "1",
@@ -130,7 +211,7 @@
   }, 
   {
     "chapter": "5",
-    "title": "The First Main Chapter",
+    "title": "THAAROMSA FAYYAA",
     "subChapters":[
       {
         "subChapter": "1",
@@ -150,102 +231,502 @@
   }, 
   {
     "chapter": "6",
-    "title": "The First Main Chapter",
+    "title": "HAAROMSA UFFATAA",
     "subChapters":[
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+[
+  {
+    "chapter": "3",
+    "title": "HAAROMSA KADHANNAA, WALGAHII KADHANNAA FI SOOMAA",
+    "subChapters": [
+      {
+        "subChapter": "1",
+        "title": "Kadhannaa Jechuun Maal dha?",
         "body": [
-          "This text belongs to Chapter 1, Section 1."
+          "This text belongs to Chapter 3, Section 1.",
+          "This text belongs to Chapter 3, Section 1.",
+          "This text belongs to Chapter 3, Section 1."
         ]
       },
       {
         "subChapter": "2",
-        "title": "The Second Sub-Chapter",
+        "title": "Kadhatni Isa Dhugaa Yeroo, Iddoo fi Haalaan Hin Daangeffamu",
         "body": [
-          "This text belongs to Chapter 1, Section 2."
+          "This text belongs to Chapter 3, Section 2.",
+          "This text belongs to Chapter 3, Section 2."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Bifa Kadhata Kadhannaa Isa Waaqayyo Dhaga’uu",
+        "body": [
+          "This text belongs to Chapter 3, Section 3.",
+          "This text belongs to Chapter 3, Section 3."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "Yoo Kadhannaa Keenyaaf Deebiin Ture Hoo?",
+        "body": [
+          "This text belongs to Chapter 3, Section 4."
+        ]
+      },
+      {
+        "subChapter": "5",
+        "title": "Akkamitti Kadhanna kadhachuu qabna",
+        "body": [
+          "This text belongs to Chapter 3, Section 5."
+        ]
+      },
+      {
+        "subChapter": "6",
+        "title": "Kadhata Kadhannaa Keessatti Ifaa Iftoominaafi Sirritti Dubbadhu",
+        "body": [
+          "This text belongs to Chapter 3, Section 6."
+        ]
+      },
+      {
+        "subChapter": "7",
+        "title": "Yeroon Addaa Kan Kadhannaa Irra Caalaa Barbaadan Kamiin Fa’a?",
+        "body": [
+          "This text belongs to Chapter 3, Section 7."
+        ]
+      },
+      {
+        "subChapter": "8",
+        "title": "Sooma",
+        "body": [
+          "This text belongs to Chapter 3, Section 8."
+        ]
+      },
+      {
+        "subChapter": "9",
+        "title": "Maaliif Soomna, Yoomiin Soomna?",
+        "body": [
+          "This text belongs to Chapter 3, Section 9."
+        ]
+      },
+      {
+        "subChapter": "10",
+        "title": "Sooma Bifa Meeqaa Qabna?",
+        "body": [
+          "This text belongs to Chapter 3, Section 10."
+        ]
+      },
+      {
+        "subChapter": "11",
+        "title": "Sooma Waa’ee Ergama Keenyaa Xiinxaluuf Godhamu",
+        "body": [
+          "This text belongs to Chapter 3, Section 11."
+        ]
+      },
+      {
+        "subChapter": "12",
+        "title": "Moo’annoo Kiristoos Soomaan Fedha Nyaataa Irratti Argate",
+        "body": [
+          "This text belongs to Chapter 3, Section 12."
+        ]
+      },
+      {
+        "subChapter": "13",
+        "title": "Fakkeenya Sooma Isa Qulqulluu",
+        "body": [
+          "This text belongs to Chapter 3, Section 13."
+        ]
+      },
+      {
+        "subChapter": "14",
+        "title": "Hiika Sooma Isa Dhugaa Dubbii Waaqayyoo Irraa",
+        "body": [
+          "This text belongs to Chapter 3, Section 14."
+        ]
+      },
+      {
+        "subChapter": "15",
+        "title": "Waa’ee Bokkaa Booddeetiif Kadhachuu",
+        "body": [
+          "This text belongs to Chapter 3, Section 15."
+        ]
+      },
+      {
+        "subChapter": "16",
+        "title": "Nuti Bara Araaraa Keessa Jirra",
+        "body": [
+          "This text belongs to Chapter 3, Section 16."
         ]
       }
     ]
-  }, 
+  },
+  {
+    "chapter": "4",
+    "title": "HAAROMSA WAAQEEFFANNAA",
+    "subChapters": [
+      {
+        "subChapter": "1",
+        "title": "Waaqeffannaan maal dha?",
+        "body": [
+          "This text belongs to Chapter 4, Section 1."
+        ]
+      },
+      {
+        "subChapter": "2",
+        "title": "Waaqeffannaa Wallaalummaa",
+        "body": [
+          "This text belongs to Chapter 4, Section 2."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Waaqeffannaa Bilaashaa (Xifaafiree)",
+        "body": [
+          "This text belongs to Chapter 4, Section 3."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "Waaqeffannaa Fedha Ofii Irratti Hundaa’e",
+        "body": [
+          "This text belongs to Chapter 4, Section 4."
+        ]
+      },
+      {
+        "subChapter": "5",
+        "title": "Waaqeffannaa Isa Dhugaa",
+        "body": [
+          "This text belongs to Chapter 4, Section 5."
+        ]
+      },
+      {
+        "subChapter": "6",
+        "title": "Guyyoota Ayyaanaa Kabajuu",
+        "body": [
+          "This text belongs to Chapter 4, Section 6."
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "5",
+    "title": "HAAROMSA FAYYAA",
+    "subChapters": [
+      {
+        "subChapter": "1",
+        "title": "Maaliif Waaqayyo Waa’ee Fayyaa Keenyaaf Dhimmame?",
+        "body": [
+          "This text belongs to Chapter 5, Section 1."
+        ]
+      },
+      {
+        "subChapter": "2",
+        "title": "Kaayyoo Haaromsa Fayyaa",
+        "body": [
+          "This text belongs to Chapter 5, Section 2."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Nyaata Isa Jalqabaa",
+        "body": [
+          "This text belongs to Chapter 5, Section 3."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "Dhibamuun Bu’aa Cubbuuti",
+        "body": [
+          "This text belongs to Chapter 5, Section 4."
+        ]
+      },
+      {
+        "subChapter": "5",
+        "title": "Karaan Waaqayyoo Qoricha Itti Qopheessu Uumamaafi Biqiloota Dha",
+        "body": [
+          "This text belongs to Chapter 5, Section 5."
+        ]
+      },
+      {
+        "subChapter": "6",
+        "title": "Dhukkuba Irraa Fayyuuf Faayidaa Bishaanii",
+        "body": [
+          "This text belongs to Chapter 5, Section 6."
+        ]
+      },
+      {
+        "subChapter": "7",
+        "title": "Seera Fayyaa",
+        "body": [
+          "This text belongs to Chapter 5, Section 7."
+        ]
+      },
+      {
+        "subChapter": "8",
+        "title": "Nuti Qabeenya Waaqayyooti",
+        "body": [
+          "This text belongs to Chapter 5, Section 8."
+        ]
+      },
+      {
+        "subChapter": "9",
+        "title": "Fayyaafi Fayyuumsa",
+        "body": [
+          "This text belongs to Chapter 5, Section 9."
+        ]
+      },
+      {
+        "subChapter": "10",
+        "title": "Walitti Dhufeenya Sammuufi Qaamaa",
+        "body": [
+          "This text belongs to Chapter 5, Section 10."
+        ]
+      },
+      {
+        "subChapter": "11",
+        "title": "Haaromsa Fayyaafi Ergaa Ergamicha Sadaffaa",
+        "body": [
+          "This text belongs to Chapter 5, Section 11."
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "6",
+    "title": "HAAROMSA UFFATAA",
+    "subChapters": [
+      {
+        "subChapter": "1",
+        "title": "Qajeelfama Waaqayyoo Dhala Namaatiif Haala Uffata Irratti Kenne",
+        "body": [
+          "This text belongs to Chapter 6, Section 1."
+        ]
+      },
+      {
+        "subChapter": "2",
+        "title": "Dambii Uffata Tajaajila Woldaatiif Tumame",
+        "body": [
+          "This text belongs to Chapter 6, Section 2."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Garaagarummaa Uffata Dhiiraafi Dubartii",
+        "body": [
+          "This text belongs to Chapter 6, Section 3."
+        ]
+      }
+    ]
+  },
   {
     "chapter": "7",
-    "title": "The First Main Chapter",
-    "subChapters":[
+    "title": "MAATII, GAA’ELAA FI KUNUUNSA DAA’IMMANII",
+    "subChapters": [
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+        "title": "Ummata Waaqayyoo Keessatti Tokkummaa Maatii",
         "body": [
-          "This text belongs to Chapter 1, Section 1."
+          "This text belongs to Chapter 7, Section 1."
         ]
       },
       {
         "subChapter": "2",
-        "title": "The Second Sub-Chapter",
+        "title": "Gaa’elli Maal Dha, Akkamittis Isa Shaakalla",
         "body": [
-          "This text belongs to Chapter 1, Section 2."
+          "This text belongs to Chapter 7, Section 2."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Hiriyyaa Bara Jireenyaa Akkamitti Akka Filachuu Qabaannu",
+        "body": [
+          "This text belongs to Chapter 7, Section 3."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "Gaa’ela Keessatti Shoorri Dubartootaa Maaliif Barbaachisaa Ta’e",
+        "body": [
+          "This text belongs to Chapter 7, Section 4."
+        ]
+      },
+      {
+        "subChapter": "5",
+        "title": "Wal Kaadhimachuufi Gaa’ela",
+        "body": [
+          "This text belongs to Chapter 7, Section 5."
+        ]
+      },
+      {
+        "subChapter": "6",
+        "title": "Gaa’ela",
+        "body": [
+          "This text belongs to Chapter 7, Section 6."
+        ]
+      },
+      {
+        "subChapter": "7",
+        "title": "Walitti Dhufeenya Dhoorkamaa",
+        "body": [
+          "This text belongs to Chapter 7, Section 7."
+        ]
+      },
+      {
+        "subChapter": "8",
+        "title": "Itti Gaafatamummaa Jireenya Gaa’elaa",
+        "body": [
+          "This text belongs to Chapter 7, Section 8."
         ]
       }
     ]
-  }, 
+  },
   {
     "chapter": "8",
-    "title": "The First Main Chapter",
-    "subChapters":[
+    "title": "HAAROMSA SANBATAA",
+    "subChapters": [
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+        "title": "Ergaan Haaromsa Sanbataa Jedhu Maaf Barbaachise?",
         "body": [
-          "This text belongs to Chapter 1, Section 1."
+          "This text belongs to Chapter 8, Section 1."
         ]
       },
       {
         "subChapter": "2",
-        "title": "The Second Sub-Chapter",
+        "title": "Sanbata Kitaaba Qulqulluu Irraa Akkamitti Ibsina?",
         "body": [
-          "This text belongs to Chapter 1, Section 2."
+          "This text belongs to Chapter 8, Section 2."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Sanbata Yaadadhu Jechuun Maal Jechuu Dha?",
+        "body": [
+          "This text belongs to Chapter 8, Section 3."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "Nuyi Akka Maatiitti Sanbata Akkamitti Simachuu Qabna",
+        "body": [
+          "This text belongs to Chapter 8, Section 4."
+        ]
+      },
+      {
+        "subChapter": "5",
+        "title": "Sa’aatoota Sanbataa Akkamitti Dabarsuu Qabna",
+        "body": [
+          "This text belongs to Chapter 8, Section 5."
+        ]
+      },
+      {
+        "subChapter": "6",
+        "title": "Sa’aatii Sanbataa Hirribaan Dabarsuu",
+        "body": [
+          "This text belongs to Chapter 8, Section 6."
+        ]
+      },
+      {
+        "subChapter": "7",
+        "title": "Haakimtoonni Akka Nama Sanbata Eeggatuutti",
+        "body": [
+          "This text belongs to Chapter 8, Section 7."
+        ]
+      },
+      {
+        "subChapter": "8",
+        "title": "Chaappaa Waaqayyootii Fi Sanbata",
+        "body": [
+          "This text belongs to Chapter 8, Section 8."
+        ]
+      },
+      {
+        "subChapter": "9",
+        "title": "Chaappaa Waaqayyoo Gooftaa Jechuun Maal Jechuu Dha?",
+        "body": [
+          "This text belongs to Chapter 8, Section 9."
+        ]
+      },
+      {
+        "subChapter": "10",
+        "title": "Chaappaa Waaqayyo Jiraataa Eenyu kan Fudhatu?",
+        "body": [
+          "This text belongs to Chapter 8, Section 10."
+        ]
+      },
+      {
+        "subChapter": "11",
+        "title": "Abboommii Waaqayyoo Kakuu Haara’a Keessatti",
+        "body": [
+          "This text belongs to Chapter 8, Section 11."
         ]
       }
     ]
   },
   {
     "chapter": "9",
-    "title": "The First Main Chapter",
-    "subChapters":[
+    "title": "ABBAANUMMAA FI SEERA KURNAFFAA",
+    "subChapters": [
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+        "title": "Abbaanummaa fi Seerri Kurnaffaa Maal Dha?",
         "body": [
-          "This text belongs to Chapter 1, Section 1."
+          "This text belongs to Chapter 9, Section 1."
         ]
       },
       {
         "subChapter": "2",
-        "title": "The Second Sub-Chapter",
+        "title": "Qajeelfamoota Abbaanummaa",
         "body": [
-          "This text belongs to Chapter 1, Section 2."
+          "This text belongs to Chapter 9, Section 2."
+        ]
+      },
+      {
+        "subChapter": "3",
+        "title": "Hundinuu Amaanaan Dandeettiin Itti kennameera",
+        "body": [
+          "This text belongs to Chapter 9, Section 3."
+        ]
+      },
+      {
+        "subChapter": "4",
+        "title": "Kurnaffaa Deebisuun Amanamummaa Mul’isuu Dha",
+        "body": [
+          "This text belongs to Chapter 9, Section 4."
+        ]
+      },
+      {
+        "subChapter": "5",
+        "title": "Tajaajila Qajeelaa Kennuu Irraa Waaqayyoon Saamuu",
+        "body": [
+          "This text belongs to Chapter 9, Section 5."
+        ]
+      },
+      {
+        "subChapter": "6",
+        "title": "Kiristoos Faarisoota Maaliif Balaaleeffate?",
+        "body": [
+          "This text belongs to Chapter 9, Section 6."
+        ]
+      },
+      {
+        "subChapter": "7",
+        "title": "Lafa Kunuunsuun Tajaajila Waaqayyoo Raawwachuu Dha",
+        "body": [
+          "This text belongs to Chapter 9, Section 7."
         ]
       }
     ]
   },
   {
     "chapter": "10",
-    "title": "The First Main Chapter",
-    "subChapters":[
+    "title": "TAPHAA FI GAMMACHUU BIYYA LAFAA",
+    "subChapters": [
       {
         "subChapter": "1",
-        "title": "The First Sub-Chapter",
+        "title": "Waa’ee Taphaa fi of mul’isuu Biyya Lafaa Wanta Waaqayyo Dubbate",
         "body": [
-          "This text belongs to Chapter 1, Section 1."
-        ]
-      },
-      {
-        "subChapter": "2",
-        "title": "The Second Sub-Chapter",
-        "body": [
-          "This text belongs to Chapter 1, Section 2."
+          "This text belongs to Chapter 10, Section 1."
         ]
       }
     ]
   }
-]
+        ]
