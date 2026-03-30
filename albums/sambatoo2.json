@@ -1,0 +1,92 @@
+[ 
+  { 
+    "id": "sambatoo21", 
+    "title": "Qabeenyi Mana Qulqullummaa", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774901973/IMG_20260331_000747_357_melrtj.jpg", 
+    "category": "Inaaffaa",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774901953/tiktok_video_ETBYa_m2bnse.jpg",
+    "audioUrl": "https://archive.org/download/sambato2/Wangeelli.mp3"
+  },
+{ 
+    "id": "sambatoo22", 
+    "title": "Atoo abbaa gara-laafessaa", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/sambato2/Abbaa.mp3"
+  },
+  { 
+    "id": "sambatoo23", 
+    "title": "Bara cufinsa seenaa", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": ["Akeekkachiisa", "Waamicha", "Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/sambato2/Cufiinsa%20Seenaa.mp3" 
+  },
+    { 
+    "id": "sambatoo24", 
+    "title": "Dhugaan baroota kamittuu", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/sambato2/Dhugaan.mp3" 
+  },
+    { 
+    "id": "sambatoo25", 
+    "title": "Qabeenya dilbii", 
+    "artist": "Sambatoo Goofar", 
+    "category": "Amantii",
+    "album": "Buddeen jireenyaa",
+    "audioUrl": "https://archive.org/download/sambato2/Jiraadhee.mp3"
+  },
+    { 
+    "id": "sambatoo26", 
+    "title": "Nama meeqa qabda?", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": ["Inaaffaa", "Amantii"], 
+    "audioUrl": "https://archive.org/download/sambato2/Nama.mp3" 
+  },
+    { 
+    "id": "sambatoo27", 
+    "title": "Utuu raayyaan waraanaa", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/sambato2/Raayyaa%20Waraanaa.mp3" 
+  },
+    { 
+    "id": "sambatoo28", 
+    "title": "Wal’aansoo waggoota dheeraa", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": ["Abdii", "Amantii"], 
+    "audioUrl": "https://archive.org/download/sambato2/Sambato%20Gofar%20%23%201%200912728595%20Siiloam%20Studio%200934027727%20Bako.mp3" 
+  },
+    { 
+    "id": "sambatoo29", 
+    "title": "Tulluu cabbii", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/sambato2/Sambato%20Gofar%202%20%200912728595%20%20Siiloam%20Studio%200934027727%20Bako.mp3" 
+  },
+{ 
+    "id": "sambatoo211", 
+    "title": "In bayyate gooftaa", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/sambato2/In%20baayyatee.mp3"
+   },
+    { 
+    "id": "sambatoo210", 
+    "title": "Ulfina kan keetif", 
+    "artist": "Sambatoo Goofar", 
+    "album": "Buddeen jireenyaa",
+    "category": ["Kadhannaa", "Amantii"], 
+    "audioUrl": "https://archive.org/download/sambato2/Waamicha.mp3" 
+  }
+]
