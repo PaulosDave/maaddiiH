@@ -23,10 +23,15 @@
     "albumId": "lalisee",
     "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/lalisee.json",
     "version": 1
-  },
+  }, 
   {
     "albumId": "sambatooo2",
     "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/sambatoo2.json",
+    "version": 1
+  }, 
+  {
+    "albumId": "taarikee",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/taarikee.json",
     "version": 1
   }
 ]
