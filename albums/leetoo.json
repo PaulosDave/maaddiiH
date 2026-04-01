@@ -1,0 +1,92 @@
+[ 
+  { 
+    "id": "leetoo1", 
+    "title": "Atoo Waaqa jaalalaati", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775032181/Picsart_26-04-01_11-51-27-495_xacvla.png", 
+    "category": "Galata",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%231%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  },
+{ 
+    "id": "leetoo2", 
+    "title": "Utuun qalbii hin jijjiiratin", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Kadhannaa", "Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%232%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3"
+  },
+  { 
+    "id": "leetoo3", 
+    "title": "Baroota baayyeef keessa turte", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Waamicha", "Akeekkachiisa"], 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%233%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "leetoo4", 
+    "title": "Dhumteetti yerooni", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Kadhannaa", "Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%234%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "leetoo5", 
+    "title": "Eden keessatti kan jalqabe", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Gaa’ela", "Cidha"],
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%235%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3"
+  },
+    { 
+    "id": "leetoo6", 
+    "title": "Gara-kuteessa akka Daani’el", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Inaaffaa", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%236%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "leetoo7", 
+    "title": "Hidhiin dubartii ejjituu", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%237%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "leetoo8", 
+    "title": "Hin oolu gaaf tokko", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Abdii", "Akeekkachiisa"], 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%238%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "leetoo9", 
+    "title": "Hin rafin Eeliyaas", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%239%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  }, 
+{ 
+    "id": "leetoo11", 
+    "title": "Har’a immoo inni waliinsaa", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Kadhannaa", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%2311%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3"
+  }, 
+{ 
+    "id": "leetoo12", 
+    "title": "Eenyut diige Abboommii", 
+    "artist": "Leetoo Xilahuun", 
+    "album": "Atoo Waaqa jaalalaati",
+    "category": ["Sanbata"], 
+    "audioUrl": "https://archive.org/download/Leetoo/Leto%20Tilahun%2312%200945732169%20%40%20YIsakor%20Ambo%200913111050.mp3" 
+  }
+]
