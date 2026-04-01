@@ -1,0 +1,99 @@
+[ 
+  { 
+    "id": "taarikee1", 
+    "title": "Hin dagatu garaan koo", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775023866/Picsart_26-03-31_22-51-44-438_ekaxbg.jpg", 
+    "category": "Galata",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775023867/Picsart_26-03-31_22-55-10-226_vpadcm.jpg",
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%231%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  },
+{ 
+    "id": "taarikee2", 
+    "title": "Nus hin eegnu dacheerraa", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%232%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3"
+  },
+  { 
+    "id": "taarikee3", 
+    "title": "Haalonni kakuu maseensuuf aboo hin qaban!", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": ["Amantii", "Abdii"], 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%233%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  },
+    { 
+    "id": "taarikee4", 
+    "title": "Ogummaa kee isa baayyee", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%234%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  },
+    { 
+    "id": "taarikee5", 
+    "title": "Hin fiigu qofaa koo", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%235%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3"
+  },
+    { 
+    "id": "taarikee6", 
+    "title": "Caamsaa namaatiin gogeera", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": ["Inaaffaa", "Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%236%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  },
+    { 
+    "id": "taarikee7", 
+    "title": "Dadhabanni koo si hin dhokatu", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%237%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  },
+    { 
+    "id": "taarikee8", 
+    "title": "Raawate yeroon", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": ["Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%238%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  },
+    { 
+    "id": "taarikee9", 
+    "title": "Eenyu dha?", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": ["Abdii", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%239%200901857392%20%40%20Yisakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "taarikee10", 
+    "title": "Oduun gurraa qabu", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": ["Galata", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%2310%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  }, 
+{ 
+    "id": "taarikee11", 
+    "title": "Ka’aa raayyaan loltuu Waaqayyoo", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": ["Waamicha", "Abdii"], 
+    "audioUrl": "https://archive.org/download/Taarikee/Tarike%20Bekuma%20%2311%200901857392%20%40%20Yisakor%20Ambo%200913111050-1.mp3" 
+  }, 
+{ 
+    "id": "taarikee12", 
+    "title": "Jilba koon daa’imuu kan caalu", 
+    "artist": "Taarikee Beekumaa", 
+    "album": "Haalonni kakuu maseensuuf aboo hin qaban! ",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Taarikee/TARIKE%20BEKUMA%200901857392%20DAVE%20STUDIO%200910365217-1.mp3" 
+  }
+]
