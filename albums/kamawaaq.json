@@ -1,0 +1,84 @@
+[ 
+  { 
+    "id": "kamawaaq1", 
+    "title": "Cubbuu shaakallee", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775128678/Picsart_26-04-02_14-37-50-130_qfdyyx.jpg", 
+    "category": ["Kadhannaa"], 
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775128663/Picsart_26-04-02_14-54-36-586_vmtgkm.jpg",
+    "audioUrl": "https://archive.org/download/Kamawaaq/CHUBU-1.mp3" 
+  },
+{ 
+    "id": "kamawaaq2", 
+    "title": "Mana keen ture malee", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": ["Inaaffaa", "Kadhanna"], 
+    "audioUrl": "https://archive.org/download/Kamawaaq/EJAKO.mp3"
+  },
+  { 
+    "id": "kamawaaq3", 
+    "title": "Gatiin cubbuu du'a", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Kamawaaq/GATIN.mp3" 
+  },
+    { 
+    "id": "kamawaaq4", 
+    "title": "Onnee akka dhakaa", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Kamawaaq/MALI%20SI.mp3" 
+  },
+    { 
+    "id": "kamawaaq5", 
+    "title": "Aduun baatee galti", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": "Akeekkachiisa",
+    "audioUrl": "https://archive.org/download/Kamawaaq/WOYO.mp3"
+  },
+    { 
+    "id": "kamawaaq6", 
+    "title": "Yaa Waaqayyo keenya", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Kamawaaq/YA%20WAQAYOO.mp3" 
+  },
+    { 
+    "id": "kamawaaq7", 
+    "title": "Yaa Yaaqoob", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": ["Waamicha", "Abdii"], 
+    "audioUrl": "https://archive.org/download/Kamawaaq/YA%2520YACKOB.mp3" 
+  },
+    { 
+    "id": "kamawaaq8", 
+    "title": "Yeroo hunda na eegda", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": ["Amantii", "Abdii"], 
+    "audioUrl": "https://archive.org/download/Kamawaaq/YADAIN.mp3" 
+  },
+    { 
+    "id": "kamawaaq9", 
+    "title": "Yemmuun taa’ee yadadhuu", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Kamawaaq/YEMUN%20TAE.mp3" 
+  },
+    { 
+    "id": "kamawaaq10", 
+    "title": "Situ nuuf kenne", 
+    "artist": "Kamawaaq Ayyalee", 
+    "album": "Gatiin cubbuu du'a",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Kamawaaq/SITTU%20NUF.mp3" 
+  }
+]
