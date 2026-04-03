@@ -1,91 +1,77 @@
 [ 
   { 
     "id": "girmaye51", 
-    "title": "2Uumaa Uumamaa", 
+    "title": "Dhugaan gatii nama baasisa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa", 
     "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1774644757/Picsart_26-03-28_00-48-43-038_lpb5tt.jpg", 
-    "category": "Galata",
-    "artistImage": "https://yt3.googleusercontent.com/kCRPAG3kMX0pjzUk3htItPJu02E7l18Y7g_5ptBNTU0bAYNHa_egDj3gWAfBaPpFsmMWV5xhAw=s900-c-k-c0x00ffffff-no-rj",
-    "audioUrl": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample.mp3",
-    "linkedHymn": { "id": 152, "library": "oromo" } 
+    "category": "Amantii",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Girmaayee5/NAMNI%20DHUGAA.mp3" 
   },
 { 
     "id": "girmaye52", 
-    "title": "2Cidha", 
+    "title": "Adeemsa bu'aa ba'ii", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    "category": "Cidha", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733105/10._Cidha_1_t3nhzu.mp3"
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Girmaayee5/ADEEMSA%20BU%27AA%20BA%27II....mp3"
   },
   { 
     "id": "girmaye53", 
-    "title": "2Dhaddacha", 
+    "title": "Eker dubbiftuuf jennee", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    "category": "Kadhannaa", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733111/2._Dhaddacha_td81ud.mp3",
-    "linkedHymn": { "id": 141, "library": "oromo" } 
+    "category": ["Kadhannaa", "Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/Girmaayee5/EKER-DUBBIFTUU....mp3" 
   },
     { 
     "id": "girmaye54", 
-    "title": "2Ga'een koo", 
+    "title": "Falli ogeessaa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    "category": "Galata", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/3._Ga_een_koo_afdkxo.mp3",
-    "linkedHymn": { "id": 108, "library": "oromo" } 
+    "category": ["Abdii", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Girmaayee5/FALLI%20OGEESSAA.mp3"
   },
     { 
     "id": "girmaye55", 
-    "title": "2Uumaa koo", 
-    "artist": "Girmaayee Baayisaa", 
+    "title": "Gaafa namni siif dubbatu", 
+    "artist": "Girmaayee Baayisaa",
+    "category": ["Abdii", "Amantii"], 
     "album": "Dhugaan gatii nama baasisa",
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3"
+    "audioUrl": "https://archive.org/download/Girmaayee5/GAAFA%20NAMNI....mp3"
   },
     { 
     "id": "girmaye56", 
-    "title": "2Mee kottaa", 
+    "title": "Kanaaf Gooftaan", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    "category": ["Inaaffaa", "Akeekkachiisa", "Waamicha"], 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733108/6._Mee_kottaa_wwd6co.mp3",
-    "linkedHymn": { "id": 90, "library": "oromo" } 
+    "category": ["Chidha", "Gaa'ela"], 
+    "audioUrl": "https://archive.org/download/Girmaayee5/GERMAYE%20%202.mp3" 
   },
     { 
     "id": "girmaye57", 
-    "title": "2Lubaaf raajii", 
+    "title": "Godoo hin amansiifne", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    "category": "Inaaffaa", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/7._Lubaaf_Raajii_qfxth0.mp3",
-    "linkedHymn": { "id": 87, "library": "oromo" } 
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Girmaayee5/GODOO%20HIN%20AMANSIIFNE....mp3" 
   },
     { 
     "id": "girmaye58", 
-    "title": "2Yeroo", 
+    "title": "Dhoksaan amantii fagoodha", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    "category": "Abdii", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/8._Yeroo_xjvqls.mp3",
-    "linkedHymn": { "id": 69, "library": "oromo" } 
-  },
-    { 
-    "id": "girmaye59", 
-    "title": "2Namaaf", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Dhugaan gatii nama baasisa",
-    "category": "Galata", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/9._Namaaf_bncyez.mp3",
-    "linkedHymn": { "id": 164, "library": "oromo" } 
+    "category": "Amantii", 
+    "audioUrl": "https://archive.org/download/Girmaayee5/HERREGNI%20AMANTII.mp3" 
   },
     { 
     "id": "girmaye510", 
-    "title": "2Namni", 
+    "title": "Yeroo dheeraa", 
     "artist": "Girmaayee Baayisaa", 
     "album": "Dhugaan gatii nama baasisa",
-    "category": ["Galata", "Amantii"], 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/4._Namni_r8ofbd.mp3",
-    "linkedHymn": { "id": 118, "library": "oromo" } 
+    "category": ["Kadhannaa", "Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/Girmaayee5/YEROO%20DHEERAAF....mp3",
+    "linkedHymn": { "id": 32, "library": "oromo" } 
   }
 ]
