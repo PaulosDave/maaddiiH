@@ -1,0 +1,99 @@
+[ 
+  { 
+    "id": "sanbatoo11", 
+    "title": "Geetasemaaneetti", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775225284/Picsart_26-04-03_18-07-54-070_vgjwoh.png", 
+    "category": "Galata",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Geetasemaaneetti%20-%20Sanbatoo%20Goofar.MP3" 
+  },
+{ 
+    "id": "sanbatoo12", 
+    "title": "Argannoo guddaa", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Argannoo%20guddaa%20-%20Sanbatoo%20Goofar.mp3"
+  },
+  { 
+    "id": "sanbatoo13", 
+    "title": "Bulchiinsi Fari’oon", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Bulchiinsi%20Fari%27oon%20-%20Sanbatoo%20Goofar.mp3" 
+  },
+    { 
+    "id": "sanbatoo14", 
+    "title": "Dhugaan harkaan hin mirkanaa’u", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Dhugaan%20harkaan%20hin%20mirkanaa%27u%20-%20Sanbatoo%20Goofar.mp3" 
+  },
+    { 
+    "id": "sanbatoo15", 
+    "title": "Fuula lafaa irraa", 
+    "artist": "Sanbatoo Goofar",
+     "category": "Akeekkachiisa",
+    "album": "Geetasemaaneetti",
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Fuula%20lafaa%20-%20Sanbatoo%20Goofar.mp3"
+  },
+    { 
+    "id": "sanbatoo16", 
+    "title": "Galaa taane", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Galaa%20taane%20-%20Sanbatoo%20Goofar.mp3" 
+  },
+    { 
+    "id": "sanbatoo17", 
+    "title": "Giddu-galeessa jireenya koo", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Giddu-galeessa%20jireenya%20koo%20-%20Sanbatoo%20Goofar.mp3" 
+  },
+    { 
+    "id": "sanbatoo18", 
+    "title": "Irra deebi’ii nu haaressi", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Irra-deebi%27ii%20nu%20haaressi%20-%20Sanbatoo%20Goofar.mp3" 
+  },
+    { 
+    "id": "sanbatoo19", 
+    "title": "Lolli Armaagedon", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": ["Abdii", "Akeekkachiisa"], 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Lolli%20armaagedon%20-%20Sanbatoo%20Goofar.mp3" 
+  },
+    { 
+    "id": "sanbatoo110", 
+    "title": "Maal jedhu kan kee", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Maal%20jedhu%20-%20Sanbatoo%20Goofar.mp3"
+  }, 
+    { 
+    "id": "sanbatoo111", 
+    "title": "Maal jette", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti", 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Maal%20jette%20-%20Sanbatoo%20Goofar.mp3" 
+  }, 
+    { 
+    "id": "sanbatoo112", 
+    "title": "Si hin sodaachisini", 
+    "artist": "Sanbatoo Goofar", 
+    "album": "Geetasemaaneetti",
+    "category": ["Abdii", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Sanbatoo1/Sin%20sodaachisini%20-%20Sanbatoo%20Goofar.mp3" 
+  }
+]
