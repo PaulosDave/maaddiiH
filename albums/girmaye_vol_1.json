@@ -1,0 +1,98 @@
+[ 
+  { 
+    "id": "girmaye11", 
+    "title": "Atoo akka namaa miti", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775243659/Picsart_26-04-03_22-28-30-312_mfdiyi.png", 
+    "category": "Kadhannaa",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_1%28256k%29.mp3"
+  },
+{ 
+    "id": "girmaye12", 
+    "title": "Sababii oolmaa keetif", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_2%28256k%29.mp3", 
+"linkedHymn": { "id": 145, "library": "oromo" } 
+  },
+  { 
+    "id": "girmaye13", 
+    "title": "Dhaamsa qabna", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": ["Waamicha", "Akeekkachiisa"], 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_3%28256k%29.mp3",
+    "linkedHymn": { "id": 131, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaye14", 
+    "title": "Erga Yesuus gara koo ta’e", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": "Amanti", 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_4%28256k%29.mp3"
+     },
+    { 
+    "id": "girmaye15", 
+    "title": "Akka bara Nayimaa", 
+    "artist": "Girmaayee Baayisaa", 
+     "category": ["Inaaffaa", "Kadhannaa"], 
+    "album": "Kamin jedheen kamin dhiisa",
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_5%28256k%29.mp3"
+  },
+    { 
+    "id": "girmaye16", 
+    "title": "Maalan qaba Yesuus koo", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_6%28256k%29.mp3",
+    "linkedHymn": { "id": 129, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaye17", 
+    "title": "Maali hin yaa’u Goofta", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_7%28256k%29.mp3",
+    "linkedHymn": { "id": 72, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaye18", 
+    "title": "Namoota baayyee na beeka", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_8%28256k%29.mp3", 
+"linkedHymn": { "id": 11, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaye19", 
+    "title": "Siif wayyoo yaa Yerusaalem", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_9%28256k%29.mp3"
+  },
+    { 
+    "id": "girmaye110", 
+    "title": "Si’a baayyee darbadhee", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": ["Kadhanaa", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_10%28256k%29.mp3" 
+  }, 
+    { 
+    "id": "girmaye111", 
+    "title": "Anaaf isa duuwwaa", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Kamin jedheen kamin dhiisa",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_11%28256k%29.mp3",
+    "linkedHymn": { "id": 81, "library": "oromo" } 
+  }
+]
