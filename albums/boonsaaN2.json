@@ -1,0 +1,84 @@
+[ 
+  { 
+    "id": "boonsaan21", 
+    "title": "Amanuutu jijjiirama fida", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775206002/IMG_20260403_122731_329_snzff2.jpg", 
+    "category": "Amantii",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775206531/Picsart_26-04-03_12-55-03-044_j4rsx9.jpg",
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20%20Amanutuu%20.mp3"
+  },
+{ 
+    "id": "boonsaan22", 
+    "title": "Ati hin gorfamtu", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20%20Ati%20hin%20gorfamtu%20.mp3"
+  },
+  { 
+    "id": "boonsaan23", 
+    "title": "Ani yoom akkana se'e", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Ani%20yoom%20akkana%20se%27e%20.mp3" 
+  },
+    { 
+    "id": "boonsaan24", 
+    "title": "የደስተኛ ህዋት ግምበኛ", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Ayiresam%20.mp3"
+  },
+    { 
+    "id": "boonsaan25", 
+    "title": "Barumsi Addunyaa", 
+    "artist": "Boonsaa Nageessoo", 
+    "category": "Amantii",
+    "album": "Ani yoom akkana se'e?",
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Barumsi%20Addunyaa%20.mp3"
+  },
+    { 
+    "id": "boonsaan26", 
+    "title": "Daa’imas ta’u Gooftaa", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": ["Amantii", "Galata"], 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Daa%27imas%20ta%27u%20gooftaa.mp3" 
+  },
+    { 
+    "id": "boonsaan27", 
+    "title": "Mana tokkotti gammaduuf", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Mana%20tokkotti%20gammaduuf.mp3" 
+  },
+    { 
+    "id": "boonsaan28", 
+    "title": "Seenaa baayyee ture miti", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Seenaa%20baayyee%20ture%20miti.mp3" 
+  },
+    { 
+    "id": "boonsaan29", 
+    "title": "ውስብስብ አይደለም", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Wisbsib%20ayidelm%20.mp3" 
+  },
+    { 
+    "id": "boonsaan210", 
+    "title": "የሰላሜ ምንጭ ነህ", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Ani yoom akkana se'e?",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/bonsaN2/Bonsa%20Nagesso.%20vol%202%20Yeselame%20minchi%20nhi.mp3" 
+  }
+]
