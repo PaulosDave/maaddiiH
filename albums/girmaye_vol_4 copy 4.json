@@ -1,98 +1,84 @@
 [ 
   { 
-    "id": "1", 
-    "title": "Uumaa Uumamaa", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa", 
-    "coverArt": "https://res.cloudinary.com/dnzscrtjc/image/upload/v1773733488/girmaye4_vgmjvo.jpg", 
-    "category": "Galata",
-    "artistImage": "https://yt3.googleusercontent.com/kCRPAG3kMX0pjzUk3htItPJu02E7l18Y7g_5ptBNTU0bAYNHa_egDj3gWAfBaPpFsmMWV5xhAw=s900-c-k-c0x00ffffff-no-rj",
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733101/1._Uumama_qr3dbl.mp3",
-    "linkedHymn": { "id": 152, "library": "oromo" } 
+    "id": "boonsaa31", 
+    "title": "Du'a hin sodaadhu", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775213043/IMG_20260403_143504_064_cpifqa.jpg", 
+    "category": ["Abdii", "Amantii"], 
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Du%27a%20hin%20Sodaadhu%207..mp3" 
   },
 { 
-    "id": "2", 
-    "title": "Cidha", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
-    
-    "category": "Cidha", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733105/10._Cidha_1_t3nhzu.mp3"
+    "id": "boonsaa32", 
+    "title": "Abdii hin kutu", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Abdii%20hin%20kutu%203.mp3"
   },
   { 
-    "id": "3", 
-    "title": "Dhaddacha", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
-    
-    "category": "Kadhannaa", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733111/2._Dhaddacha_td81ud.mp3",
-    "linkedHymn": { "id": 141, "library": "oromo" } 
-  },
-    { 
-    "id": "4", 
-    "title": "Ga'een koo", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
-    
+    "id": "boonsaa33", 
+    "title": "Akkuma borofa bishaanif", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
     "category": "Galata", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/3._Ga_een_koo_afdkxo.mp3",
-    "linkedHymn": { "id": 108, "library": "oromo" } 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Akkuma%20borofa%204%20.mp3" 
   },
     { 
-    "id": "5", 
-    "title": "Uumaa koo", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
-    
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733104/5._Uumaa_koo_w48bzb.mp3"
+    "id": "boonsaa34", 
+    "title": "Dacheen tun nu hin firoomfattu", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Dacheen%20tun%205%20.mp3" 
   },
     { 
-    "id": "6", 
-    "title": "Mee kottaa", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
-    
-    "category": ["Inaaffaa", "Akeekkachiisa", "Waamicha"], 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733108/6._Mee_kottaa_wwd6co.mp3",
-    "linkedHymn": { "id": 90, "library": "oromo" } 
+    "id": "boonsaa35", 
+    "title": "Gaarri kun nu duraa", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
+    "category": "Galata",
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Gaarri%20kun%2010%20.mp3"
   },
     { 
-    "id": "7", 
-    "title": "Lubaaf raajii", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
-    
-    "category": "Inaaffaa", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/7._Lubaaf_Raajii_qfxth0.mp3",
-    "linkedHymn": { "id": 87, "library": "oromo" } 
+    "id": "boonsaa36", 
+    "title": "Har’aaf kaleessa miti", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
+    "category": ["Abdii", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Har%27aa%20fi%20Kaleessaa%20miti%208.mp3" 
   },
     { 
-    "id": "8", 
-    "title": "Yeroo", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
-    
+    "id": "boonsaa37", 
+    "title": "Ilmi Waaqaa deebi’uuf ta’a", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
     "category": "Abdii", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/8._Yeroo_xjvqls.mp3",
-    "linkedHymn": { "id": 69, "library": "oromo" } 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Ilmi%20Waaqaa%202.mp3" 
   },
     { 
-    "id": "9", 
-    "title": "Namaaf", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "id": "boonsaa38", 
+    "title": "Waan ardii argeera", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
     "category": "Galata", 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733103/9._Namaaf_bncyez.mp3",
-    "linkedHymn": { "id": 164, "library": "oromo" } 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Jaalala%20argeera%201.mp3" 
   },
     { 
-    "id": "10", 
-    "title": "Namni", 
-    "artist": "Girmaayee Baayisaa", 
-    "album": "Qabee #4: Uumaa Uumamaa",
+    "id": "boonsaa39", 
+    "title": "Yeroo isa eegeti", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20Vol%203%20Yeroo%20isaa%20eegeeti%209.mp3" 
+  },
+    { 
+    "id": "boonsaa310", 
+    "title": "Lubbuun koo", 
+    "artist": "Boonsaa Nageessoo", 
+    "album": "Du'a hin sodaadhu",
     "category": ["Galata", "Amantii"], 
-    "audioUrl": "https://res.cloudinary.com/dnzscrtjc/video/upload/v1773733107/4._Namni_r8ofbd.mp3",
-    "linkedHymn": { "id": 118, "library": "oromo" } 
+    "audioUrl": "https://archive.org/download/Boonsaa3/Bonsa%20Nagesso%20vol%203%20Lubbuun%20koo..mp3" 
   }
 ]
