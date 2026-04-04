@@ -1,0 +1,87 @@
+[ 
+  { 
+    "id": "girmaayee31", 
+    "title": "Shaakala waggaa 6000", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775294231/Picsart_26-04-04_13-04-08-855_qtmxpz.png", 
+    "category": "",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Girmaayee3/Girmaayee%2001.mp3",
+    "linkedHymn": { "id": 49, "library": "oromo" } 
+  },
+{ 
+    "id": "girmaayee32", 
+    "title": "Ati yaa eegdu", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/Girmaayee3/Ati%20Yaa%20Eegdu.mp3"
+  },
+  { 
+    "id": "girmaayee33", 
+    "title": "Baga gammaddan", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "category": ["Cidha", “Gaa’ela”], 
+    "audioUrl": "https://archive.org/download/Girmaayee3/Baga%20gammaddan%20-%20Girmaayee%20Baayisaa.mp" 
+  },
+    { 
+    "id": "girmaayee34", 
+    "title": "Dhibantaa koo", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Girmaayee3/Dhibantaa%20koo%20-%20Girmaayee%20Baayisaa.mp3",
+    "linkedHymn": { "id": 146, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaayee35", 
+    "title": "Malaalleen harka kee", 
+    "artist": "Girmaayee Baayisaa",
+   "category": "Galata",
+    "album": "Shaakala waggaa 6000",
+    "linkedHymn": { "id": 65, "library": "oromo" }
+    "audioUrl": "https://archive.org/download/Girmaayee3/Girmaayee%2004.mp3"
+  },
+    { 
+    "id": "girmaayee36", 
+    "title": "Isa fannifame mee ilaalaa", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "category": ["Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://archive.org/download/Girmaayee3/Isa%20fannifame%20-%20Girmaayee%20Baayisaa.mp3" 
+  },
+    { 
+    "id": "girmaayee37", 
+    "title": "Maaltu beeka", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Girmaayee3/Maaltu%20beeka%20-%20Girmaayee%20Baayisaa.mp3" 
+  },
+    { 
+    "id": "girmaayee38", 
+    "title": "Taa’ee yommun ittii yaadu", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Girmaayee3/Taa%27een%20yommutttiin%20yaadu-%20Girmaayee%20Baayisaa%20.mp3" 
+  },
+    { 
+    "id": "girmaayee39", 
+    "title": Wangeela badhaadhummaa"", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/Girmaayee3/Wangeela%20badhaadhummaa%20-%20Girmaayee%20Baayisaa%20.mp3" 
+  },
+    { 
+    "id": "girmaayee310", 
+    "title": "Amartiin hin taane", 
+    "artist": "Girmaayee Baayisaa",
+    "album": "Shaakala waggaa 6000",
+    "audioUrl": "https://archive.org/download/Girmaayee3/girmaayee-baayisaa-amartiin-hintaane-256k_4NxsQYG9.mp",
+    "linkedHymn": { "id": 153, "library": "oromo" } 
+  }
+]
