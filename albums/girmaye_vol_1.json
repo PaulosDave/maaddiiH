@@ -16,7 +16,7 @@
     "album": "Kamin jedheen kamin dhiisa",
     "category": "Galata", 
     "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_2%28256k%29.mp3", 
-"linkedHymn": { "id": 145, "library": "oromo" } 
+    "linkedHymn": { "id": 145, "library": "oromo" } 
   },
   { 
     "id": "girmaye13", 
@@ -68,7 +68,7 @@
     "album": "Kamin jedheen kamin dhiisa",
     "category": "Kadhannaa", 
     "audioUrl": "https://archive.org/download/Girmaye1/Girmaayee_Baayisaa____Track_8%28256k%29.mp3", 
-"linkedHymn": { "id": 11, "library": "oromo" } 
+    "linkedHymn": { "id": 11, "library": "oromo" } 
   },
     { 
     "id": "girmaye19", 
