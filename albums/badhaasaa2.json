@@ -1,0 +1,84 @@
+[ 
+  { 
+    "id": "1", 
+    "title": "Efaataa", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775277514/Picsart_26-04-04_08-37-06-778_rsbk3b.jpg", 
+    "category": "Galata",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Badhaasaa2/EFAATAA.mp3" 
+  },
+{ 
+    "id": "2", 
+    "title": "Kunoo ani jira", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/0DEEMA%252520.mp3"
+  },
+  { 
+    "id": "3", 
+    "title": "Siif taanee hin argamne nuti", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/ARAARAAF.mp3" 
+  },
+    { 
+    "id": "4", 
+    "title": "Foonni koo miidhamaadha", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/FOONNI%252520KOO.mp3" 
+  },
+    { 
+    "id": "5", 
+    "title": "Maaloo nu gargaari", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "Kadhannaa",
+    "audioUrl": "https://archive.org/download/Badhaasaa2/GARGARI.mp3"
+  },
+    { 
+    "id": "6", 
+    "title": "Guyyaa amma guyyaatti", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/GUYYAATTI.mp3" 
+  },
+    { 
+    "id": "7", 
+    "title": "Mararamneetu boonya", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "Kadhhannaa", 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/MARARAMNEE.mp3" 
+  },
+    { 
+    "id": "8", 
+    "title": "Qaccee dhugaa kanaa", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/QACCEE.mp3" 
+  },
+    { 
+    "id": "9", 
+    "title": "Tulluu guddaa", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/TULLUU%252520GUDDAA.mp3" 
+  },
+    { 
+    "id": "10", 
+    "title": "Waamicha kee", 
+    "artist": "Badhaasaa Wandimmuu", 
+    "album": "Efaataa",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Badhaasaa2/WAAMICHA.mp3"
+  }
+]
