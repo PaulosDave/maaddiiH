@@ -1,0 +1,96 @@
+[ 
+  { 
+    "id": "girmaayee21", 
+    "title": "Namni fedha isaatiin garboome", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775340112/Picsart_26-04-05_02-00-59-453_w4gjhh.png", 
+    "category": "",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/Girmaayee2/Namni%20fedha%20isaatiin%20gabroome%20-%20Girmaayee%20Baayisaa.MP3" 
+  },
+{ 
+    "id": "girmaayee22", 
+    "title": "Qaanaa Galiilaa", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": ["Cidha", "Gaa’ela"], 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Akka%20Qaanaa%20Galiilaa%20-%20Girmaayee%20Baayisaa.MP3"
+  },
+  { 
+    "id": "girmaayee23", 
+    "title": "Baroota keessatti", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Baroota%20keessatti%20-%20Girmaayee%20Baayisaa.MP3",
+    "linkedHymn": { "id": 167, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaayee24", 
+    "title": "Bineensi waliisaa wal nyaatu", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Bineensi%20waliisaa%20%20-%20Girmaayee%20Baayisaa.MP3" 
+  },
+    { 
+    "id": "girmaayee25", 
+    "title": "Bokkaan in rooba", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "linkedHymn": { "id": 38, "library": "oromo" }, 
+   "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Bokkaan%20in%20rooba%20-%20Girmaayee%20Baayisaa.MP3"
+  },
+    { 
+    "id": "girmaayee26", 
+    "title": "Damma raqa keessaa", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "audioUrl": "https://archive.org/download/Girmaayee2/Damma%20raqa%20keessaa%20-%20Girmaayee%20Baayisaa.MP3" 
+  },
+    { 
+    "id": "girmaayee27", 
+    "title": "Dheebuun foonii", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": "Inaaffaa",
+    "audioUrl": "https://archive.org/download/Girmaayee2/Dheebuun%20foonii%20-%20Girmaayee%20Baayisaa.MP3",
+    "linkedHymn": { "id": 47, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaayee28", 
+    "title": "Kamin jedheen kamin dhiisa", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Firooma%20keen%20cimsa%20-%20Girmaayee%20Baayisaa.MP3",
+    "linkedHymn": { "id": 89, "library": "oromo" } 
+  },
+    { 
+    "id": "girmaayee29", 
+    "title": "Karoora fayyuu namaaf", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Karoora%20fayyuu%20namaaf%20-%20Girmaayee%20Baayisaa.MP3" 
+  },
+    { 
+    "id": "girmaayee210", 
+    "title": "Kottu Yesuusitti", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": ["Waamicha", "Akeekkachiisa"], 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Kottu%20yesuusitti%20-%20Girmaayee%20Baayisaa.MP3",
+    "linkedHymn": { "id": 165, "library": "oromo" } 
+  }, 
+{ 
+    "id": "girmaayee210", 
+    "title": "Obsi dhugaa", 
+    "artist": "Girmaayee Baayisaa", 
+    "album": "Namni fedha isaatiin garboome",
+    "category": ["Abdii"], 
+    "audioUrl": "https://archive.org/download/Girmaayee2/Obsi%20dhugaa%20-%20Girmaayee%20Baayisaa.MP3" 
+  }
+]
