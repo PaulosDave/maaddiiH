@@ -1,0 +1,94 @@
+[ 
+  { 
+    "id": "ayaantuu11", 
+    "title": "Gooftaan nama hin leeyyaasisu", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775567947/Picsart_26-04-07_17-13-23-039_rjy6q1.jpg", 
+    "category": "Abdii",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Gooftaan_Nama_hin_Leeyyaasisu-2_tQHKwY.mp3",
+    "linkedHymn": { "id": 152, "library": "oromo" } 
+  },
+{ 
+    "id": "ayaantuu12", 
+    "title": "Maal ta’inna laata", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye%20Maal%20ta%27inna%20Laataa.mp3"
+  },
+  { 
+    "id": "ayaantuu13", 
+    "title": "Fannoon malattoo dhiifamaati", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye%20fannoon%20maltoo.mp3",
+    "linkedHymn": { "id": 162, "library": "oromo" } 
+  },
+    { 
+    "id": "ayaantuu14", 
+    "title": "Akka beektota lafaatti", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Akka_Beektota_ZlJRVE.mp3"
+  },
+    { 
+    "id": "ayaantuu15", 
+    "title": "Ba’aa cubbuutu natti ulfaate", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Ba_aa_Cubbuu_lcXIwJ.mp3"
+  },
+    { 
+    "id": "ayaantuu16", 
+    "title": "Hoo’u fadhadhu", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Hoo_u_Fudhadhu_JNbFyN.mp3",
+    "linkedHymn": { "id": 95, "library": "oromo" } 
+  },
+    { 
+    "id": "ayaantuu17", 
+    "title": "Nu taajjabeera", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Nu_taajjabeera.%28256k%29.mp3" 
+  },
+    { 
+    "id": "ayaantuu18", 
+    "title": "Nuuf mijatee hin beeku", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": "Kadhannaa", 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Nuuf_Mijatee_hin_beeku_OKQrSg.mp3" 
+  },
+    { 
+    "id": "ayaantuu19", 
+    "title": "Utuun jiruu", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Utuun_Jiruu_pwVVPz.mp3" 
+  },
+    { 
+    "id": "ayaantuu110", 
+    "title": "Yommuu diinni karaa keenya cufe", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": ["Galata", "Amantii", "Abdii"], 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_Yommuu_Diinni_Karaa_keenya_cufe_ebXaNF.mp3" 
+  }, 
+{ 
+    "id": "ayaantuu111", 
+    "title": "Beekamtii qabda", 
+    "artist": "Ayyaantuu Ejjetaa", 
+    "album": "Gooftaan nama hin leeyyaasisu",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/ayyaantuu/Aye_beekamtii_qabda.mp3" 
+  }
+]
