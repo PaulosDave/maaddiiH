@@ -1,0 +1,91 @@
+[ 
+  { 
+    "id": "saamueel1", 
+    "title": "Ani Eenyu?", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775559802/Picsart_26-04-07_14-58-54-707_fzp1qy.png", 
+    "category": "Galata",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775504148/Picsart_26-04-06_23-34-37-272_iqc2vh.jpg",
+    "audioUrl": "https://archive.org/download/samuel_202604/Ani%20eenyu.mp3" 
+  },
+{ 
+    "id": "saamueel2", 
+    "title": "Barri itti hirriibaa dammaqan", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/samuel_202604/Barri.mp3"
+  },
+  { 
+    "id": "saamueel3", 
+    "title": "Ergama guddaa qabanne", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/samuel_202604/Ergama.mp3" 
+  },
+    { 
+    "id": "saamueel4", 
+    "title": "Hundumaaf inni iddoo qabu", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/samuel_202604/Hundumaaf.mp3" 
+  },
+    { 
+    "id": "saamueel5", 
+    "title": "Ilaali mee goofta", 
+    "artist": "Saamu'eel Taaddasee", 
+    "category": "Kadhannaa",
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "audioUrl": "https://archive.org/download/samuel_202604/Ilaalimee.mp3"
+  },
+    { 
+    "id": "saamueel6", 
+    "title": "Jabaadhaa obboloota", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": ["Abdii"], 
+    "audioUrl": "https://archive.org/download/samuel_202604/Jabaadhaa%2C%20Gooftaan%20dhiyoodha.mp3" 
+  },
+    { 
+    "id": "saamueel7", 
+    "title": "Namni erga kufee", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "audioUrl": "https://archive.org/download/samuel_202604/Namni.mp3" 
+  },
+    { 
+    "id": "saamueel8", 
+    "title": "Samiin ni dheebota", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": "Waamicha", 
+    "audioUrl": "https://archive.org/download/samuel_202604/Samiin.mp3" 
+  },
+    { 
+    "id": "saamueel9", 
+    "title": "Sitti adda ba’ee", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/samuel_202604/Sittii.mp3" 
+  },
+    { 
+    "id": "saamueel10", 
+    "title": "Yesuusin qabaadhee", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": ["Galata", "Amantii"], 
+    "audioUrl": "https://archive.org/download/samuel_202604/Yesusin.mp3" 
+  }, 
+{ 
+    "id": "saamueel11", 
+    "title": "Qaraaniyoon Takkaa Hin Dagatamu", 
+    "artist": "Saamu'eel Taaddasee", 
+    "album": "Qaraaniyoon Takkaa Hin Dagatamu",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/samuel_202604/aduun.mp3" 
+  }
+]
