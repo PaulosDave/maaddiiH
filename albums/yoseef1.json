@@ -1,0 +1,84 @@
+[ 
+  { 
+    "id": "yoseef11", 
+    "title": "Dhugaan kan irraa ifu", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775901215/Picsart_26-04-11_13-53-08-805_rkdhqw.jpg", 
+    "category": "Waamicha",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1775899447/Picsart_26-04-11_13-22-55-853_lpatlz.jpg",
+    "audioUrl": "https://archive.org/download/Yoosef/Dhugaan%20kan%20Ifu.mp3" 
+  },
+{ 
+    "id": "yoseef12", 
+    "title": "Nu hin dinqifachiisu", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2901%20Track%201.mp3"
+  },
+  { 
+    "id": "yoseef13", 
+    "title": "Sit na qaqqabateef malee", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2902%20Track%202.mp3" 
+  },
+    { 
+    "id": "yoseef14", 
+    "title": "Gareen keenya isa kami", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": ["Waamicha", "Akeekkachiisa"], 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2903%20Track%203.mp3" 
+  },
+    { 
+    "id": "yoseef15", 
+    "title": "Maalan si dhoksa abbaa koo", 
+    "artist": "Yoseef Taaddasee",
+    "category": "Kadhannaa",
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2904%20Track%204.mp3"
+  },
+    { 
+    "id": "yoseef16", 
+    "title": "Balbala kee dura dhaabatee", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": ["Waamicha"], 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2905%20Track%205.mp3" 
+  },
+    { 
+    "id": "yoseef17", 
+    "title": "Jechi ibsu hin argamu", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2907%20Track%207.mp3" 
+  },
+    { 
+    "id": "yoseef18", 
+    "title": "Dhaloota koon si madaalee", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2908%20Track%208.mp3" 
+  },
+    { 
+    "id": "yoseef19", 
+    "title": "Akka biyyee gabbina fixee", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2909%20Track%209.mp3" 
+  },
+    { 
+    "id": "yoseef110", 
+    "title": "Naaf ta’een arge", 
+    "artist": "Yoseef Taaddasee", 
+    "album": "Nu hin dinqifachiisu wanti ta'aa jiru",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Yoosef/Dup%2801%2910%20Track%2010.mp3" 
+  }
+]
