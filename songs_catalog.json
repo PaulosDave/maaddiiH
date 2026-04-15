@@ -98,5 +98,10 @@
     "albumId": "taarikee",
     "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/taarikee.json",
     "version": 1
-  }
+  },
+  {
+    "albumId": "yoseef1",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/yoseef1.json",
+    "version": 1
+  } 
 ]
