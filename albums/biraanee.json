@@ -1,0 +1,91 @@
+[ 
+  { 
+    "id": "biraanee11", 
+    "title": "Yaa uumata Israa’el", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1", 
+    "coverArt": "", 
+    "category": "Waamicha",
+    "artistImage": "",
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%281%29.mp3" 
+  },
+{ 
+    "id": "biraanee12", 
+    "title": "Ani garuu", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": ["Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%2810%29.mp3"
+  },
+  { 
+    "id": "biraanee13", 
+    "title": "Abbaa keenna", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%2811%29.mp3" 
+  },
+    { 
+    "id": "biraanee14", 
+    "title": "Rakkoon lafarraa", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": "Kadhanna", 
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%283%29.mp3" 
+  },
+    { 
+    "id": "biraanee15", 
+    "title": "Bara dheeraa", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%284%29.mp3"
+  },
+    { 
+    "id": "biraanee16", 
+    "title": "Ati mee jabaadhu", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": ["Abdii"],
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%285%29.mp3" 
+  },
+    { 
+    "id": "biraanee17", 
+    "title": "Of eegadhu", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": "Akeekkachiisa", 
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%286%29.mp3" 
+  },
+    { 
+    "id": "biraanee18", 
+    "title": "Come to him", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": "", 
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%287%29.mp3" 
+  },
+    { 
+    "id": "biraanee19", 
+    "title": "Hanga yoom", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%288%29.mp3" 
+  },
+    { 
+    "id": "biraanee110", 
+    "title": "Diinni keenya", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": ["Akeekkachiisaa"],
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%289%29.mp3" 
+  }, 
+{ 
+    "id": "biraanee111", 
+    "title": "Ni deebi’a Yesuus", 
+    "artist": "Biraanee Garasuu", 
+    "album": "Qabee #1",
+    "category": ["Abdii", "Amantii"], 
+    "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu.mp3" 
+  }
+]
