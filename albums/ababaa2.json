@@ -2,7 +2,8 @@
   { 
     "id": "ababaa1", 
     "title": "🔊 BEEKSISA",
-    "Artist": "Maaddii Hafuuraa",
+    "artist": "Maaddii Hafuuraa",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778369440/Picsart_26-05-10_03-26-36-212_kmyo4k.jpg", 
     "album": "Lolli geggeefamuu qaba", 
     "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778367389/Picsart_26-05-10_02-54-01-251_v0wgti.jpg", 
     "category": "Beeksisa",
