@@ -1,0 +1,88 @@
+[ 
+  { 
+    "id": "eliyaas21", 
+    "title": "Dhugaaf jiraanna", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1777471761/Picsart_26-04-29_18-06-07-137_tpfzss.jpg",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1777471761/Picsart_26-04-29_18-07-45-765_kxffcf.jpg",
+    "audioUrl": "https://archive.org/download/Eliyaas2/01%20ELIYAS%20GETAHUN%20SEENAAF%20JIRAANNA%20%200944207542.mp3" 
+  },
+{ 
+    "id": "eliyaas22", 
+    "title": "Gaaddisa Giiliyaad", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Eliyaas2/02_ELIYAS_GETAHUN_GAADDISA_GIILIYAAD_0944207542_DAVE_STUDIO_GIMBI.mp3"
+  },
+  { 
+    "id": "eliyaas23", 
+    "title": "Hundee tokkorraa", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna", 
+    "audioUrl": "https://archive.org/download/Eliyaas2/03%20ELIAS%20GETAHUN%20HUNDEE%20TOKKORRAA%20%200944207542%20%281%29.mp3" 
+  },
+    { 
+    "id": "eliyaas24", 
+    "title": "Yeroo tajaajilaa", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna", 
+    "audioUrl": "https://archive.org/download/Eliyaas2/04_ELIYAS_GETAHUN_YEROO_TAJAAJILAA_0944207542_DAVE_STUDIO_GIMBI.mp3" 
+  },
+    { 
+    "id": "eliyaas25", 
+    "title": "Sagaleen amma waamu", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna",
+    "category": ["Akeekkachiisa", "Waamicha"], 
+    "audioUrl": "https://archive.org/download/Eliyaas2/05%20ELIAS%20GETAHUN%20100%25%20SAGALEE%20%20%200944207542.mp3"
+  },
+    { 
+    "id": "eliyaas26", 
+    "title": "Utuu Waaqayyo", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna",
+    "category": ["Abdii"], 
+    "audioUrl": "https://archive.org/download/Eliyaas2/06%20ELIYAS%20GETAHUN%20UTUU%20WAAQAYYO%20%20%200944207542.mp3" 
+  },
+    { 
+    "id": "eliyaas27", 
+    "title": "Bubbee jabaan", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/Eliyaas2/07_ELIYAS_GETAHUN_BUBBEE_0944207542_DAVE_STUDIO_GIMBI_0910365217.mp3" 
+  },
+    { 
+    "id": "eliyaas28", 
+    "title": "Filannoo keenya", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna",
+    "category": "Amantii", 
+    "audioUrl": "https://archive.org/download/Eliyaas2/08_ELIYAS_GETAHUN_FILANNOO_KEENYA_%23_0944207542_DAVE_STUDIO_GIMBI.mp3" 
+  },
+    { 
+    "id": "eliyaas29", 
+    "title": "Maddoota ifaa", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna",
+    "category": "Galata", 
+    "audioUrl": "https://archive.org/download/Eliyaas2/09%20ELIYAS%20GETAHUN%20MADDOOTA%20IFAA%20%200944207542.mp3" 
+  },
+    { 
+    "id": "eliyaas210", 
+    "title": "Qajeelummaa", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna", 
+    "audioUrl": "https://archive.org/download/Eliyaas2/10%20ELIAS%20GETAHUN%20QAJEELUMMAA%20...%20.mp3" 
+  }, 
+{ 
+    "id": "eliyaas211", 
+    "title": "Akka Joobiraa", 
+    "artist": "Eliyaas Geetahuun", 
+    "album": "Dhugaaf jiraanna",
+    "category": ["Galata", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Eliyaas2/ELIYAS_GETAHUN_video_AKKA_JOOBIRAA_0944207542_DAVE_STUDIO_GIMBI.mp3" 
+  }
+]
