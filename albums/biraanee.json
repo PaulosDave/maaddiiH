@@ -4,9 +4,9 @@
     "title": "Yaa uumata Israa’el", 
     "artist": "Biraanee Garasuu", 
     "album": "Qabee 1", 
-    "coverArt": "", 
+    "coverArt": "g", 
     "category": "Waamicha",
-    "artistImage": "",
+    "artistImage": "g",
     "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%281%29.mp3" 
   },
 { 
@@ -60,8 +60,7 @@
     "id": "biraanee18", 
     "title": "Come to him", 
     "artist": "Biraanee Garasuu", 
-    "album": "Qabee 1",
-    "category": "", 
+    "album": "Qabee 1", 
     "audioUrl": "https://archive.org/download/birhane1/Birhane%20geresu%20%287%29.mp3" 
   },
     { 
