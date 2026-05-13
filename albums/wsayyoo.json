@@ -1,0 +1,84 @@
+[ 
+  { 
+    "id": "wsayyoo1", 
+    "title": "Abbaa", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778662138/Picsart_26-05-12_10-42-58-920_hqjvhj.jpg", 
+    "category": ["Galata"],
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778662138/Picsart_26-05-12_10-42-58-920_hqjvhj.jpg",
+    "audioUrl": "", 
+  },
+{ 
+    "id": "wsayyoo2", 
+    "title": "Waamichi ilmaan namaaf", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Waamicha"], 
+    "audioUrl": ""
+  },
+  { 
+    "id": "wsayyoo3", 
+    "title": "Bineensichi", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Akeekkachiisa"], 
+    "audioUrl": "" 
+  },
+    { 
+    "id": "wsayyoo4", 
+    "title": "Gaa’ela", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Cidha"], 
+    "audioUrl": "" 
+  },
+    { 
+    "id": "wsayyoo5", 
+    "title": "Imalashee", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Akeekkachiisa"],
+    "audioUrl": ""
+  },
+    { 
+    "id": "wsayyoo6", 
+    "title": "Iyyaa iyya dabarsaa", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Waamicha","Akeekkachiisa"], 
+    "audioUrl": "" 
+  },
+    { 
+    "id": "wsayyoo7", 
+    "title": "Qooda koo", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Galata"], 
+    "audioUrl": "", 
+  },
+    { 
+    "id": "wsayyoo8", 
+    "title": "Saba dhuunfaa", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Inaaffaa"], 
+    "audioUrl": "" 
+  },
+    { 
+    "id": "wsayyoo9", 
+    "title": "Salphaatti miti", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": ["Inaaffaa"], 
+    "audioUrl": "" 
+  },
+    { 
+    "id": "wsayyoo10", 
+    "title": "Samiitti galuudhaaf", 
+    "artist": "Warra Sayyoo (Garee)", 
+    "album": "Qooda koo duute",
+    "category": [""], 
+    "audioUrl": "" 
+  }
+]
