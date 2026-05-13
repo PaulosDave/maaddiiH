@@ -7,7 +7,7 @@
     "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778662138/Picsart_26-05-12_10-42-58-920_hqjvhj.jpg", 
     "category": ["Galata"],
     "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778662138/Picsart_26-05-12_10-42-58-920_hqjvhj.jpg",
-    "audioUrl": "", 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Abbaa.mp3", 
   },
 { 
     "id": "wsayyoo2", 
@@ -15,7 +15,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Waamicha"], 
-    "audioUrl": ""
+    "audioUrl": "https://archive.org/download/Wsayyoo/Waamichi.mp3"
   },
   { 
     "id": "wsayyoo3", 
@@ -23,7 +23,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Akeekkachiisa"], 
-    "audioUrl": "" 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Bineensichi.mp3" 
   },
     { 
     "id": "wsayyoo4", 
@@ -31,7 +31,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Cidha"], 
-    "audioUrl": "" 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Gaa%27ela.mp3" 
   },
     { 
     "id": "wsayyoo5", 
@@ -39,7 +39,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Akeekkachiisa"],
-    "audioUrl": ""
+    "audioUrl": "https://archive.org/download/Wsayyoo/Imalashee.mp3"
   },
     { 
     "id": "wsayyoo6", 
@@ -47,7 +47,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Waamicha","Akeekkachiisa"], 
-    "audioUrl": "" 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Iyyaa%20iyya%20dabarsaa.mp3" 
   },
     { 
     "id": "wsayyoo7", 
@@ -55,7 +55,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Galata"], 
-    "audioUrl": "", 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Qoodakoo.mp3", 
   },
     { 
     "id": "wsayyoo8", 
@@ -63,7 +63,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Inaaffaa"], 
-    "audioUrl": "" 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Saba%20dhuunfaa.mp3" 
   },
     { 
     "id": "wsayyoo9", 
@@ -71,7 +71,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Inaaffaa"], 
-    "audioUrl": "" 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Salphaatti%20miti.mp3" 
   },
     { 
     "id": "wsayyoo10", 
@@ -79,6 +79,6 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": [""], 
-    "audioUrl": "" 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Samiitti%20galuudhaaf.mp3" 
   }
 ]
