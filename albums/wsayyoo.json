@@ -7,7 +7,7 @@
     "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778662138/Picsart_26-05-12_10-42-58-920_hqjvhj.jpg", 
     "category": ["Galata"],
     "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778662138/Picsart_26-05-12_10-42-58-920_hqjvhj.jpg",
-    "audioUrl": "https://archive.org/download/Wsayyoo/Abbaa.mp3", 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Abbaa.mp3"
   },
 { 
     "id": "wsayyoo2", 
@@ -55,7 +55,7 @@
     "artist": "Warra Sayyoo (Garee)", 
     "album": "Qooda koo duute",
     "category": ["Galata"], 
-    "audioUrl": "https://archive.org/download/Wsayyoo/Qoodakoo.mp3", 
+    "audioUrl": "https://archive.org/download/Wsayyoo/Qoodakoo.mp3" 
   },
     { 
     "id": "wsayyoo8", 
