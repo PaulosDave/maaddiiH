@@ -1,0 +1,76 @@
+[ 
+  { 
+    "id": "dammaqsaa11", 
+    "title": "Amantiinsaa Akka hin banneef", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778776359/Picsart_26-05-14_20-30-40-285_jciexk.jpg", 
+    "category": ["Amantii"],
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778777859/Picsart_26-05-14_20-57-17-976_lplgsd.jpg",
+    "audioUrl": "https://archive.org/download/Dammaqsaa/AMAANTIINSAA%20AKKA%20HIN%20BANNEEF%20.mp3" 
+  },
+{ 
+    "id": "dammaqsaa12", 
+    "title": "Barsiisniif aadaan ormaa", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Dammaqsaa/BARSIISNIIF%20AADAAN%20HORMAA.mp3"
+  },
+  { 
+    "id": "dammaqsaa13", 
+    "title": "Dhiyootti naaf dhufta", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": ["Amantii", "Kadhannaa", "Abdii"], 
+    "audioUrl": "https://archive.org/download/Dammaqsaa/DHIHOOTTI.mp3" 
+  },
+    { 
+    "id": "dammaqsaa14", 
+    "title": "Jaalala Agaappee", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Dammaqsaa/JAALALA%20AGAAPPEE%20.mp3" 
+  },
+    { 
+    "id": "dammaqsaa15", 
+    "title": "Kuusaa galataa", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": ["Galata"],
+    "audioUrl": "https://archive.org/download/Dammaqsaa/KUUSAA%20GALATAA.mp3"
+  },
+    { 
+    "id": "dammaqsaa16", 
+    "title": "Maali laata Gooftaa", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Dammaqsaa/MAALI%20LAATA%20GOOFTAA.mp3" 
+  },
+    { 
+    "id": "dammaqsaa17", 
+    "title": "Maaltu naaf beeka", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Dammaqsaa/MAALTU%20NAAF%20BEEKA%20.mp3" 
+  },
+    { 
+    "id": "dammaqsaa18", 
+    "title": "Si waamadhee", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Dammaqsaa/SI%20WAAMADHEE.mp3" 
+  },
+    { 
+    "id": "dammaqsaa19", 
+    "title": "Takkaa ta’ee hin beeku", 
+    "artist": "Dammaqsaa Wandimmuu", 
+    "album": "Mul'ata isaan samii utuu daawwatuu",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Dammaqsaa/TAKKAA%20TAE%20HIN%20BEEKU.mp3" 
+  }
+]
