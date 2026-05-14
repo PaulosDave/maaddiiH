@@ -1,0 +1,84 @@
+[ 
+  { 
+    "id": "abdiifib1", 
+    "title": "Murtoo du'aa", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778779791/Picsart_26-05-14_21-29-33-305_zvz9nc.jpg", 
+    "category": ["Galata"],
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778779791/Picsart_26-05-14_21-29-33-305_zvz9nc.jpg",
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%20%23%2001.mp3" 
+  },
+{ 
+    "id": "abdiifib2", 
+    "title": "Maalif dagatta", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Waamicha"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%20%23%2008.mp3"
+  },
+  { 
+    "id": "abdiifib3", 
+    "title": "An nan beeka", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%20%2307.mp3" 
+  },
+    { 
+    "id": "abdiifib4", 
+    "title": "Sin warri itti dhamaatan", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Waamicha"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%2010.mp3" 
+  },
+    { 
+    "id": "abdiifib5", 
+    "title": "Haala hundarra", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Galata"],
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%202.mp3"
+  },
+    { 
+    "id": "abdiifib6", 
+    "title": "Gochaan kan kee", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%203.mp3" 
+  },
+    { 
+    "id": "abdiifib7", 
+    "title": "Nuyi garuu", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Abdii", "Amantii"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%204.mp3" 
+  },
+    { 
+    "id": "abdiifib8", 
+    "title": "Fayyisaan kan biyya lafaa", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%205.mp3" 
+  },
+    { 
+    "id": "abdiifib9", 
+    "title": "Wanti ati hojettu", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%206.mp3" 
+  },
+    { 
+    "id": "abdiifib10", 
+    "title": "Iddoo qabdaa", 
+    "artist": "Abdii fi Boontuu", 
+    "album": "Oolfamuun keenya salphaatti miti",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/Abdiifiboontuu/Track%209.mp3" 
+  } 
+ ]
