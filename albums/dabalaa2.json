@@ -1,0 +1,98 @@
+[ 
+  { 
+    "id": "dabalaa21", 
+    "title": "Lafeen kan koo", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti", 
+    "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778783152/Picsart_26-05-14_22-24-24-638_c5xst6.jpg", 
+    "category": "Cidha",
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1776248963/Picsart_26-04-15_14-28-02-270_shvnz8.jpg",
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%2520%2523%25200917664332%2520Siiloam%2520Studio%25200934027727%2520Bako.mp3" 
+  },
+{ 
+    "id": "dabalaa22", 
+    "title": "Yaa Waaqa Eliyaas", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": ["Inaaffaa", "Kadhannaa"], 
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%2520%2523%252010%25200917664332%2520Siiloam%2520Studio%25200934027727%2520Bako.mp3"
+  },
+  { 
+    "id": "dabalaa23", 
+    "title": "Utuun si eeguu (Boqonnaa koo)", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": ["Sanbata"], 
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%2520%2523%25207%2520%25200917664332%2520Siiloam%2520Studio%2520.mp3" 
+  },
+    { 
+    "id": "dabalaa24", 
+    "title": "Yoomuu hin dagadhu", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": ["Galata"], 
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%2520%2523%25207%25200917664332%2520Siiloam%2520Studio%25200934027727%2520Bako.mp3" 
+  },
+    { 
+    "id": "dabalaa25", 
+    "title": "Hin rafin", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": ["Waamicha", "Akeekkachiisa"],
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%2520%2523%25208%2520%25200917664332%2520Siiloam%2520Studio%2520.mp3"
+  },
+    { 
+    "id": "dabalaa26", 
+    "title": "Imaammanni Fari’oon", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": ["Inaaffaa"], 
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%2520%2523%25209%2520%25200917664332%2520Siiloam%2520Studio%2520.mp3" 
+  },
+    { 
+    "id": "dabalaa27", 
+    "title": "Obsanii Waaqayyoon eeggachuun", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": "Abdii", 
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%25202%25200917664332%2520Siiloam%2520Studio%25200934027727%2520Bako.mp3" 
+  },
+    { 
+    "id": "dabalaa28", 
+    "title": "Gooftaa si kafhanna", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": ["Kadhannaa"],
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%25203%25200917664332%2520Siiloam%2520Studio%25200934027727%2520Bako.mp3" 
+  },
+    { 
+    "id": "dabalaa29", 
+    "title": "Mee of gaafadhaa", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": "Inaaffaa", 
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%25204%25200917664332%2520Siloam%2520Studio%25200934027727%2520Bako.mp3" 
+  },
+    { 
+    "id": "dabalaa210", 
+    "title": "Yeroo Kristoos si waamuu", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "category": ["Waamicha", "Akeekkachiisa"], 
+    "audioUrl": "https://archive.org/download/dabala2/Dabala%2520Tolasa%25205%25200917664332%2520Siloam%2520Studio%25200934027727%2520Bako.mp3" 
+  }, 
+{ 
+    "id": "dabalaa211", 
+    "title": "Saamson illee utuma qabuu", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti",
+    "audioUrl": "https://archive.org/download/dabala2/Dabalaa%20Tolasaa%200917664932%20Siiloam%20Studio%200934027727%20Bako.mp3" 
+  },
+{ 
+    "id": "dabalaa212", 
+    "title": "Jiraattonni dachee", 
+    "artist": "Dabalaa Tolasaa", 
+    "album": "Beekamtii isa lafa irraa miti", 
+    "audioUrl": "https://archive.org/download/dabala2/Dabalaa%2520Tolasaa%25200917664332%2520Siiloam%2520Studio%25200934027727%2520Bako.mp3" 
+  }
+]
