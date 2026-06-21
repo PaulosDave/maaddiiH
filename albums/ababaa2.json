@@ -1,12 +1,100 @@
 [ 
   { 
-    "id": "ababaa1", 
-    "title": "🔊 BEEKSISA",
-    "artist": "Ababaa Guutaa",
-    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778365111/Picsart_26-05-10_02-15-26-417_rl3htd.jpg", 
-    "album": "Lolli geggeefamuu qaba", 
+    "id": "ababaa21", 
+    "title": "Dhugaa Dinqisiisaa", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba", 
     "coverArt": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778367389/Picsart_26-05-10_02-54-01-251_v0wgti.jpg", 
-    "category": "Beeksisa",
-    "audioUrl": "https://res.cloudinary.com/dlamwzufa/video/upload/v1778366506/1000037690_uloms3.mp4" 
+    "category": [""],
+    "artistImage": "https://res.cloudinary.com/dlamwzufa/image/upload/v1778365111/Picsart_26-05-10_02-15-26-417_rl3htd.jpg",
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba%20Guta%20VOl.2_Dhugaa%20Dinqisiisaa%20%40Yisakor%20Ambo%200913111050.mp3"
+  },
+{ 
+    "id": "ababaa22", 
+    "title": "Waaqeffattoota Afaanii", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Waaqeffatoota_Afaanii_%40Yisakor_Ambo_0913111050.mp3"
+  },
+  { 
+    "id": "ababaa23", 
+    "title": "Hoosaa’inaa", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba%20Guta%20VOl.2_Hoosaa%27inaa%20%40Yisakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "ababaa24", 
+    "title": "Kan Hin Dhumne", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba%20Guta%20VOl.2_Kan%20Hin%20Dhumne%20%40Yisakor%20Ambo%200913111050.mp3" 
+  },
+    { 
+    "id": "ababaa25", 
+    "title": "Silo’aam", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""],
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba%20Guta%20VOl.2_SILO%27AAM%20%40Yisakor%20Ambo%200913111050.mp3"
+  },
+    { 
+    "id": "ababaa26", 
+    "title": "Akkam Goote Yesusuus", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Akkam_Goote_Yesuus_%40Yisakor_Ambo_0913111050_1.mp3" 
+  },
+    { 
+    "id": "ababaa27", 
+    "title": "Ani Wangeelatti Hin Leeyya’u", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Ani_Wangeelatti_Hin_Leeyya%27u_%40Yisakor_Ambo_0913111050.mp3" 
+  },
+    { 
+    "id": "ababaa28", 
+    "title": "Balleessaa Keenyaafis", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Balleessaa_Keenyaafis_Yesuus%40Yisakor_Ambo_0913111050.mp3" 
+  },
+    { 
+    "id": "ababaa29", 
+    "title": "Erga Cubbuun Du’a Deessee", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Erga_Cubbuun_Du%27a_Deessee_%40Yisakor_Ambo_0913111050.mp3" 
+  },
+    { 
+    "id": "ababaa210", 
+    "title": "Gaarummaa Keen Hima", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Gaarummaa_Keen_Hima_%40Yisakor_Ambo_0913111050.mp3" 
+  },
+{ 
+    "id": "ababaa211", 
+    "title": "Jireenya Kee Gabaabsa", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Jireenya_Kee_Gabaabsa_%40Yisakor_Ambo_0913111050.mp3" 
+  },
+{ 
+    "id": "ababaa212", 
+    "title": "Lolli Gaggeeffamuu Qaba", 
+    "artist": "Ababaa Guutaa", 
+    "album": "Lolli Gaggeefamuu Qaba",
+    "category": [""], 
+    "audioUrl": "https://archive.org/download/Ababaa2/Abeba_Guta_VOl_2_Lolli_Gaggeeffamuu_Qaba_%40Yisakor_Ambo_0913111050.mp3" 
   }
 ]
