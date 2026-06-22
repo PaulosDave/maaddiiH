@@ -55,6 +55,11 @@
     "version": 1
   },
   {
+    "albumId": "caaltuu1",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/caaltuu1.json",
+    "version": 32
+  },
+  {
     "albumId": "dabalaa1",
     "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/dabalaa1.json",
     "version": 1
@@ -104,6 +109,11 @@
     "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/girmaye_vol_5.json",
     "version": 1
   }, 
+  {
+    "albumId": "goobanaa2",
+    "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/goobanaa2.json",
+    "version": 32
+  },
   {
     "albumId": "habtaamuu",
     "url": "https://raw.githubusercontent.com/PaulosDave/maaddiiH/main/albums/habtaamuu.json",
